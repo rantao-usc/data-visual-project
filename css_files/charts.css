@@ -1,0 +1,21 @@
+body {
+    margin: 20px 25px 25px 25px;
+    padding: 10px
+}
+
+svg {
+  display: block;
+  margin: auto;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
