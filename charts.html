@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Average Retail Fuel Prices</title>
-        <link rel="stylesheet" href="./css_files/style.css">
+        <link rel="stylesheet" href="./css_files/charts.css">
         <!-- CSS only -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
         <!-- JavaScript Bundle with Popper -->
@@ -17,7 +17,12 @@
             <svg id="multi-line" width="960px" height="500px" style="background-color:whitesmoke"></svg>
         </div>
         <hr>
-
-        <script src="./js_files/charts.js"></script>
+        <div class="card p-3">
+            <h1>Bar Chart: Average Retail Fuel Prices</h1>
+            <svg id="bar-chart" width="960px" height="500px" style="background-color:whitesmoke"></svg>
+            <svg id="legend"></svg>
+        </div>
+        <script src="./js_files/multi_line.js"></script>
+        <script src="./js_files/stacked_bar.js"></script>
     </body>
 </html>

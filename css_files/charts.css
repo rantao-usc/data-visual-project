@@ -19,3 +19,8 @@ svg {
   display: none;
 }
 
+.focus circle {
+    fill: steelblue;
+    stroke: steelblue;
+  }
+
