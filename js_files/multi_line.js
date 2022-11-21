@@ -126,7 +126,7 @@ d3.csv("../data/retail_fuel_prices.csv").then(function(data) {
       .attr("x", 80)
       .attr("y", -4)
       .attr("font-size", 12)
-      .attr("fill", "#A9A9A9")
+      .attr("fill", "#000000")
       .text("Average Fuel Prices ($)");
 
 
@@ -145,28 +145,5 @@ d3.csv("../data/retail_fuel_prices.csv").then(function(data) {
         .style("fill", "#00000")
         .style("font-size", 12)
         .text(d=>d)
-
-    var focus = svg.append("g")
-      .attr("class", "focus")
-      .attr("transform", "translate(-100,-100)");
-
-    focus.append("circle")
-      .attr("r", 4.5);
-
-    focus.append("text")
-      .attr("x", 9)
-      .attr("dy", ".35em");
-
-
-  function mouseover(d0, d1) {
-      d3.select(".path").classed("line-hover", true);
-      focus.attr("transform", "translate(" + x(d0) + "," + y(d1) + ")");
-      focus.select("text").text(d1);
-    }
-  
-    function mouseout(d0, d1) {
-      d3.select(".path").classed("line-hover", false);
-      focus.attr("transform", "translate(-100,-100)");
-    }
 
 });

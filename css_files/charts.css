@@ -3,9 +3,19 @@ body {
     padding: 10px
 }
 
-svg {
+#bar-chart {
   display: block;
   margin: auto;
+}
+
+#multi-line {
+  display: block;
+  margin: auto;
+}
+
+#legend {
+  position: relative;
+  left: 520px;
 }
 
 .axis path,
