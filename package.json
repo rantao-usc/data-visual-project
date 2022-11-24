@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "bootstrap": "^5.2.2",
-    "colorbrewer": "^1.5.3",
-    "d3": "^7.6.1",
-    "dotenv": "^16.0.3"
-  }
-}
