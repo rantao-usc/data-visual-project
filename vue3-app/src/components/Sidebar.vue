@@ -25,10 +25,10 @@
 				<span class="material-icons">ssid_chart</span>
 				<span class="text">Average Retail Fuel Prices</span>
 			</RouterLink>
-			<!-- <RouterLink to="/ZoomableCirclePacking" class="button">
+			<RouterLink to="/ZoomableCirclePacking" class="button">
 				<span class="material-icons">bubble_chart</span>
 				<span class="text">Electricity Source per State</span>
-			</RouterLink> -->
+			</RouterLink>
 			<!--<router-link to="/contact" class="button">
 				<span class="material-icons">email</span>
 				<span class="text">Contact</span>

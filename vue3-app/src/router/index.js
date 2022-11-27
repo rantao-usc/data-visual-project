@@ -15,11 +15,11 @@ const router = createRouter({
       name: 'd3multiline',
       component: () => import('../views/MultiLineChart.vue')
     },
-    // {
-    //   path: '/ZoomableCirclePacking',
-    //   name: 'ZoomableCirclePacking',
-    //   component: () => import('../views/CirclePacking.vue')
-    // },
+    {
+      path: '/ZoomableCirclePacking',
+      name: 'ZoomableCirclePacking',
+      component: () => import('../views/CirclePacking.vue')
+    },
     {
       path: '/d3chart',
       name: 'd3chart',
