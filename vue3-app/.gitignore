@@ -1,3 +1,4 @@
+../.DS_Store
 # Logs
 logs
 *.log
@@ -27,4 +28,3 @@ coverage
 *.sln
 *.sw?
 .env
-../.DS_Store

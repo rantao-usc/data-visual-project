@@ -17,10 +17,6 @@
 				<span class="material-icons">description</span>
 				<span class="text">About</span>
             </RouterLink>
-			<!-- <RouterLink to="/d3barchart" class="button">
-				<span class="material-icons">ssid_chart</span>
-				<span class="text">Barchart</span>
-			</RouterLink> -->
 			<RouterLink to="/d3multiline" class="button">
 				<span class="material-icons">ssid_chart</span>
 				<span class="text">Average Retail Fuel Prices</span>
@@ -29,9 +25,18 @@
 				<span class="material-icons">bubble_chart</span>
 				<span class="text">Electricity Source per State</span>
 			</RouterLink>
+			<RouterLink to="/chloropethChart" class="button">
+				<span class="material-icons">map</span>
+				<span class="text">CO2 Emissions</span>
+			</RouterLink>
+			<!-- <RouterLink to="/d3chartcomp" class="button">
+				<span class="material-icons">pie_chart</span>
+				<span class="text">Pie Chart</span>
+			</RouterLink> -->
 			<!--<router-link to="/contact" class="button">
 				<span class="material-icons">email</span>
 				<span class="text">Contact</span>
+				pie_chart
 			</router-link> -->
 		</div>
 

@@ -21,9 +21,9 @@ const router = createRouter({
       component: () => import('../views/CirclePacking.vue')
     },
     {
-      path: '/d3chart',
-      name: 'd3chart',
-      component: () => import('../views/D3ChartView.vue')
+      path: '/chloropethChart',
+      name: 'chloropethChart',
+      component: () => import('../views/ChloroplethMap.vue')
     },
     {
       path: '/d3barchart',
