@@ -1,0 +1,23 @@
+[
+    { "year": 2001, "gas_price": 1.460, "EV": 20282 },
+    { "year": 2002, "gas_price": 1.386, "EV": 36042 },
+    { "year": 2003, "gas_price": 1.603, "EV": 47566 },
+    { "year": 2004, "gas_price": 1.895, "EV": 84233 },
+    { "year": 2005, "gas_price": 2.314, "EV": 205876 },
+    { "year": 2006, "gas_price": 2.618, "EV": 251864 },
+    { "year": 2007, "gas_price": 2.843, "EV": 351071 },
+    { "year": 2008, "gas_price": 3.299, "EV": 315763 },
+    { "year": 2009, "gas_price": 2.406, "EV": 290273 },
+    { "year": 2010, "gas_price": 2.835, "EV": 274974 },
+    { "year": 2011, "gas_price": 3.576, "EV": 286512 },
+    { "year": 2012, "gas_price": 3.680, "EV": 487819 },
+    { "year": 2013, "gas_price": 3.575, "EV": 592637 },
+    { "year": 2014, "gas_price": 3.437, "EV": 571054 },
+    { "year": 2015, "gas_price": 2.520, "EV": 498423 },
+    { "year": 2016, "gas_price": 2.250, "EV": 506565 },
+    { "year": 2017, "gas_price": 2.528, "EV": 558543 },
+    { "year": 2018, "gas_price": 2.813, "EV": 669028 },
+    { "year": 2019, "gas_price": 2.691, "EV": 719057 },
+    { "year": 2020, "gas_price": 2.258, "EV": 762656 },
+    { "year": 2021, "gas_price": 3.100, "EV": 1431875 }
+]
