@@ -284,20 +284,20 @@ svg.append("g")
   <!-- "scoped" attribute limits CSS to this component only -->
   <style scoped>
   
-  #chloropethChart {
+  :deep(#chloropethChart) {
       margin: 0px 25px 25px 25px;
       padding: 10px
   }
 
-  .info_chloro{
+  :deep(.info_chloro){
     margin-bottom: 20px;
   }
-  input {
+  :deep(input) {
             display: block;
             width: 200px;
             margin: 10px 0px 0px 0px;
         }
-  div.tooltip {	
+  :deep(div.tooltip) {	
     position: absolute;			
     text-align: center;			
     width: 275px;					
@@ -310,19 +310,18 @@ svg.append("g")
     pointer-events: none;			
 }
   
-  .legend {
+:deep(.legend) {
     position: relative;
     left: 20px;
   }
   
-  .axis path,
-  .axis line {
+  :deep(.axis path,.axis line) {
     fill: none;
     stroke: #000;
     shape-rendering: crispEdges;
   }
   
-  .x.axis path {
+  :deep(.x.axis path) {
     display: none;
   }
   
