@@ -1,0 +1,3061 @@
+,state,year,emissions
+0,Alabama,1970,18.8
+1,Alaska,1970,5.1
+2,Arizona,1970,13.4
+3,Arkansas,1970,11.6
+4,California,1970,130.7
+5,Colorado,1970,13.8
+6,Connecticut,1970,13.0
+7,Delaware,1970,3.6
+8,District of Columbia,1970,2.3
+9,Florida,1970,43.2
+10,Georgia,1970,28.4
+11,Hawaii,1970,9.0
+12,Idaho,1970,4.6
+13,Illinois,1970,55.5
+14,Indiana,1970,26.7
+15,Iowa,1970,14.6
+16,Kansas,1970,16.5
+17,Kentucky,1970,18.0
+18,Louisiana,1970,26.8
+19,Maine,1970,6.3
+20,Maryland,1970,19.5
+21,Massachusetts,1970,24.8
+22,Michigan,1970,41.9
+23,Minnesota,1970,19.3
+24,Mississippi,1970,14.2
+25,Missouri,1970,27.6
+26,Montana,1970,4.9
+27,Nebraska,1970,9.7
+28,Nevada,1970,5.2
+29,New Hampshire,1970,3.6
+30,New Jersey,1970,35.3
+31,New Mexico,1970,9.3
+32,New York,1970,76.6
+33,North Carolina,1970,25.8
+34,North Dakota,1970,3.9
+35,Ohio,1970,47.7
+36,Oklahoma,1970,16.7
+37,Oregon,1970,12.9
+38,Pennsylvania,1970,50.6
+39,Rhode Island,1970,4.6
+40,South Carolina,1970,14.1
+41,South Dakota,1970,3.8
+42,Tennessee,1970,21.5
+43,Texas,1970,84.6
+44,Utah,1970,6.5
+45,Vermont,1970,2.1
+46,Virginia,1970,31.9
+47,Washington,1970,20.6
+48,West Virginia,1970,7.6
+49,Wisconsin,1970,19.1
+50,Wyoming,1970,4.0
+51,,1970,
+52,,1970,
+53,,1970,
+54,,1970,
+55,,1970,
+56,,1970,
+57,,1970,
+58,,1970,
+59,,1970,
+60,Alabama,1971,19.7
+61,Alaska,1971,5.8
+62,Arizona,1971,14.0
+63,Arkansas,1971,12.1
+64,California,1971,136.2
+65,Colorado,1971,14.6
+66,Connecticut,1971,13.1
+67,Delaware,1971,3.6
+68,District of Columbia,1971,2.4
+69,Florida,1971,45.6
+70,Georgia,1971,30.6
+71,Hawaii,1971,9.9
+72,Idaho,1971,4.8
+73,Illinois,1971,57.0
+74,Indiana,1971,27.7
+75,Iowa,1971,16.0
+76,Kansas,1971,16.9
+77,Kentucky,1971,18.2
+78,Louisiana,1971,26.5
+79,Maine,1971,6.7
+80,Maryland,1971,19.5
+81,Massachusetts,1971,25.8
+82,Michigan,1971,42.8
+83,Minnesota,1971,20.3
+84,Mississippi,1971,15.1
+85,Missouri,1971,28.5
+86,Montana,1971,5.1
+87,Nebraska,1971,9.9
+88,Nevada,1971,5.4
+89,New Hampshire,1971,3.8
+90,New Jersey,1971,36.5
+91,New Mexico,1971,9.6
+92,New York,1971,79.3
+93,North Carolina,1971,26.6
+94,North Dakota,1971,4.1
+95,Ohio,1971,48.9
+96,Oklahoma,1971,17.1
+97,Oregon,1971,13.5
+98,Pennsylvania,1971,52.6
+99,Rhode Island,1971,4.9
+100,South Carolina,1971,14.8
+101,South Dakota,1971,4.1
+102,Tennessee,1971,22.7
+103,Texas,1971,87.8
+104,Utah,1971,7.0
+105,Vermont,1971,2.2
+106,Virginia,1971,33.6
+107,Washington,1971,21.1
+108,West Virginia,1971,8.1
+109,Wisconsin,1971,20.0
+110,Wyoming,1971,4.3
+111,,1971,
+112,,1971,
+113,,1971,
+114,,1971,
+115,,1971,
+116,,1971,
+117,,1971,
+118,,1971,
+119,,1971,
+120,Alabama,1972,21.1
+121,Alaska,1972,5.8
+122,Arizona,1972,15.6
+123,Arkansas,1972,13.5
+124,California,1972,137.6
+125,Colorado,1972,15.9
+126,Connecticut,1972,13.9
+127,Delaware,1972,3.8
+128,District of Columbia,1972,2.4
+129,Florida,1972,50.2
+130,Georgia,1972,32.7
+131,Hawaii,1972,9.7
+132,Idaho,1972,5.1
+133,Illinois,1972,62.4
+134,Indiana,1972,30.0
+135,Iowa,1972,16.6
+136,Kansas,1972,18.0
+137,Kentucky,1972,19.6
+138,Louisiana,1972,29.0
+139,Maine,1972,7.8
+140,Maryland,1972,20.6
+141,Massachusetts,1972,27.0
+142,Michigan,1972,46.6
+143,Minnesota,1972,21.3
+144,Mississippi,1972,16.1
+145,Missouri,1972,30.0
+146,Montana,1972,5.4
+147,Nebraska,1972,10.8
+148,Nevada,1972,5.8
+149,New Hampshire,1972,3.9
+150,New Jersey,1972,39.9
+151,New Mexico,1972,10.6
+152,New York,1972,79.0
+153,North Carolina,1972,28.3
+154,North Dakota,1972,4.3
+155,Ohio,1972,52.8
+156,Oklahoma,1972,18.2
+157,Oregon,1972,14.5
+158,Pennsylvania,1972,56.3
+159,Rhode Island,1972,4.7
+160,South Carolina,1972,15.4
+161,South Dakota,1972,4.3
+162,Tennessee,1972,24.9
+163,Texas,1972,95.1
+164,Utah,1972,7.3
+165,Vermont,1972,2.3
+166,Virginia,1972,34.6
+167,Washington,1972,21.4
+168,West Virginia,1972,8.7
+169,Wisconsin,1972,21.2
+170,Wyoming,1972,4.3
+171,,1972,
+172,,1972,
+173,,1972,
+174,,1972,
+175,,1972,
+176,,1972,
+177,,1972,
+178,,1972,
+179,,1972,
+180,Alabama,1973,23.1
+181,Alaska,1973,5.1
+182,Arizona,1973,16.9
+183,Arkansas,1973,14.7
+184,California,1973,141.4
+185,Colorado,1973,16.6
+186,Connecticut,1973,14.3
+187,Delaware,1973,4.1
+188,District of Columbia,1973,2.8
+189,Florida,1973,54.9
+190,Georgia,1973,36.1
+191,Hawaii,1973,10.1
+192,Idaho,1973,5.3
+193,Illinois,1973,65.1
+194,Indiana,1973,31.3
+195,Iowa,1973,18.0
+196,Kansas,1973,17.8
+197,Kentucky,1973,20.5
+198,Louisiana,1973,32.6
+199,Maine,1973,8.0
+200,Maryland,1973,21.7
+201,Massachusetts,1973,27.8
+202,Michigan,1973,48.6
+203,Minnesota,1973,22.8
+204,Mississippi,1973,16.8
+205,Missouri,1973,30.3
+206,Montana,1973,6.0
+207,Nebraska,1973,11.4
+208,Nevada,1973,6.3
+209,New Hampshire,1973,4.0
+210,New Jersey,1973,40.0
+211,New Mexico,1973,10.8
+212,New York,1973,82.9
+213,North Carolina,1973,30.3
+214,North Dakota,1973,4.5
+215,Ohio,1973,54.9
+216,Oklahoma,1973,18.9
+217,Oregon,1973,15.5
+218,Pennsylvania,1973,57.5
+219,Rhode Island,1973,4.3
+220,South Carolina,1973,16.7
+221,South Dakota,1973,4.4
+222,Tennessee,1973,27.2
+223,Texas,1973,104.2
+224,Utah,1973,7.8
+225,Vermont,1973,2.4
+226,Virginia,1973,35.7
+227,Washington,1973,23.3
+228,West Virginia,1973,9.6
+229,Wisconsin,1973,22.2
+230,Wyoming,1973,4.7
+231,,1973,
+232,,1973,
+233,,1973,
+234,,1973,
+235,,1973,
+236,,1973,
+237,,1973,
+238,,1973,
+239,,1973,
+240,Alabama,1974,24.8
+241,Alaska,1974,5.5
+242,Arizona,1974,16.2
+243,Arkansas,1974,14.7
+244,California,1974,135.1
+245,Colorado,1974,16.4
+246,Connecticut,1974,14.1
+247,Delaware,1974,4.1
+248,District of Columbia,1974,2.9
+249,Florida,1974,52.6
+250,Georgia,1974,34.7
+251,Hawaii,1974,9.2
+252,Idaho,1974,5.4
+253,Illinois,1974,62.2
+254,Indiana,1974,30.5
+255,Iowa,1974,17.3
+256,Kansas,1974,18.0
+257,Kentucky,1974,19.9
+258,Louisiana,1974,35.3
+259,Maine,1974,6.9
+260,Maryland,1974,21.2
+261,Massachusetts,1974,26.3
+262,Michigan,1974,47.0
+263,Minnesota,1974,22.5
+264,Mississippi,1974,16.7
+265,Missouri,1974,29.8
+266,Montana,1974,6.1
+267,Nebraska,1974,10.7
+268,Nevada,1974,6.2
+269,New Hampshire,1974,4.0
+270,New Jersey,1974,37.8
+271,New Mexico,1974,10.8
+272,New York,1974,74.6
+273,North Carolina,1974,30.3
+274,North Dakota,1974,4.3
+275,Ohio,1974,53.3
+276,Oklahoma,1974,18.7
+277,Oregon,1974,14.9
+278,Pennsylvania,1974,55.4
+279,Rhode Island,1974,4.2
+280,South Carolina,1974,16.4
+281,South Dakota,1974,4.3
+282,Tennessee,1974,26.7
+283,Texas,1974,106.3
+284,Utah,1974,8.0
+285,Vermont,1974,2.4
+286,Virginia,1974,34.0
+287,Washington,1974,23.4
+288,West Virginia,1974,9.4
+289,Wisconsin,1974,22.1
+290,Wyoming,1974,4.8
+291,,1974,
+292,,1974,
+293,,1974,
+294,,1974,
+295,,1974,
+296,,1974,
+297,,1974,
+298,,1974,
+299,,1974,
+300,Alabama,1975,25.7
+301,Alaska,1975,5.7
+302,Arizona,1975,16.1
+303,Arkansas,1975,14.7
+304,California,1975,139.1
+305,Colorado,1975,16.8
+306,Connecticut,1975,14.0
+307,Delaware,1975,3.9
+308,District of Columbia,1975,2.7
+309,Florida,1975,53.2
+310,Georgia,1975,34.7
+311,Hawaii,1975,9.3
+312,Idaho,1975,5.6
+313,Illinois,1975,62.5
+314,Indiana,1975,30.5
+315,Iowa,1975,17.4
+316,Kansas,1975,17.9
+317,Kentucky,1975,20.1
+318,Louisiana,1975,35.8
+319,Maine,1975,6.6
+320,Maryland,1975,21.2
+321,Massachusetts,1975,26.2
+322,Michigan,1975,46.7
+323,Minnesota,1975,22.6
+324,Mississippi,1975,15.8
+325,Missouri,1975,30.1
+326,Montana,1975,5.8
+327,Nebraska,1975,10.5
+328,Nevada,1975,6.6
+329,New Hampshire,1975,4.0
+330,New Jersey,1975,37.1
+331,New Mexico,1975,10.7
+332,New York,1975,73.2
+333,North Carolina,1975,30.1
+334,North Dakota,1975,4.5
+335,Ohio,1975,54.0
+336,Oklahoma,1975,19.3
+337,Oregon,1975,15.1
+338,Pennsylvania,1975,54.5
+339,Rhode Island,1975,4.1
+340,South Carolina,1975,16.3
+341,South Dakota,1975,4.4
+342,Tennessee,1975,27.4
+343,Texas,1975,110.4
+344,Utah,1975,8.1
+345,Vermont,1975,2.4
+346,Virginia,1975,33.4
+347,Washington,1975,25.0
+348,West Virginia,1975,9.7
+349,Wisconsin,1975,22.6
+350,Wyoming,1975,4.6
+351,,1975,
+352,,1975,
+353,,1975,
+354,,1975,
+355,,1975,
+356,,1975,
+357,,1975,
+358,,1975,
+359,,1975,
+360,Alabama,1976,26.6
+361,Alaska,1976,6.4
+362,Arizona,1976,16.5
+363,Arkansas,1976,15.2
+364,California,1976,147.2
+365,Colorado,1976,17.8
+366,Connecticut,1976,14.3
+367,Delaware,1976,4.1
+368,District of Columbia,1976,2.7
+369,Florida,1976,55.4
+370,Georgia,1976,36.2
+371,Hawaii,1976,9.4
+372,Idaho,1976,5.9
+373,Illinois,1976,65.0
+374,Indiana,1976,31.7
+375,Iowa,1976,18.2
+376,Kansas,1976,18.3
+377,Kentucky,1976,21.2
+378,Louisiana,1976,37.9
+379,Maine,1976,6.9
+380,Maryland,1976,22.1
+381,Massachusetts,1976,27.0
+382,Michigan,1976,49.2
+383,Minnesota,1976,23.2
+384,Mississippi,1976,16.2
+385,Missouri,1976,31.5
+386,Montana,1976,6.3
+387,Nebraska,1976,11.1
+388,Nevada,1976,6.9
+389,New Hampshire,1976,4.3
+390,New Jersey,1976,39.2
+391,New Mexico,1976,11.1
+392,New York,1976,77.4
+393,North Carolina,1976,31.5
+394,North Dakota,1976,4.7
+395,Ohio,1976,56.7
+396,Oklahoma,1976,20.7
+397,Oregon,1976,16.0
+398,Pennsylvania,1976,59.3
+399,Rhode Island,1976,3.9
+400,South Carolina,1976,17.4
+401,South Dakota,1976,4.7
+402,Tennessee,1976,28.6
+403,Texas,1976,114.3
+404,Utah,1976,8.3
+405,Vermont,1976,2.5
+406,Virginia,1976,35.0
+407,Washington,1976,26.2
+408,West Virginia,1976,9.9
+409,Wisconsin,1976,23.6
+410,Wyoming,1976,5.0
+411,,1976,
+412,,1976,
+413,,1976,
+414,,1976,
+415,,1976,
+416,,1976,
+417,,1976,
+418,,1976,
+419,,1976,
+420,Alabama,1977,28.2
+421,Alaska,1977,6.7
+422,Arizona,1977,17.8
+423,Arkansas,1977,15.7
+424,California,1977,157.5
+425,Colorado,1977,18.6
+426,Connecticut,1977,14.5
+427,Delaware,1977,4.1
+428,District of Columbia,1977,2.7
+429,Florida,1977,59.4
+430,Georgia,1977,37.6
+431,Hawaii,1977,10.1
+432,Idaho,1977,6.2
+433,Illinois,1977,66.8
+434,Indiana,1977,32.3
+435,Iowa,1977,18.5
+436,Kansas,1977,18.1
+437,Kentucky,1977,21.7
+438,Louisiana,1977,40.7
+439,Maine,1977,7.0
+440,Maryland,1977,22.9
+441,Massachusetts,1977,27.3
+442,Michigan,1977,50.4
+443,Minnesota,1977,23.4
+444,Mississippi,1977,17.2
+445,Missouri,1977,32.4
+446,Montana,1977,6.1
+447,Nebraska,1977,11.8
+448,Nevada,1977,7.3
+449,New Hampshire,1977,4.4
+450,New Jersey,1977,39.3
+451,New Mexico,1977,11.3
+452,New York,1977,76.3
+453,North Carolina,1977,33.0
+454,North Dakota,1977,5.0
+455,Ohio,1977,57.9
+456,Oklahoma,1977,21.7
+457,Oregon,1977,17.1
+458,Pennsylvania,1977,60.6
+459,Rhode Island,1977,3.9
+460,South Carolina,1977,18.0
+461,South Dakota,1977,4.8
+462,Tennessee,1977,29.6
+463,Texas,1977,122.7
+464,Utah,1977,8.7
+465,Vermont,1977,2.7
+466,Virginia,1977,35.8
+467,Washington,1977,26.9
+468,West Virginia,1977,10.5
+469,Wisconsin,1977,24.4
+470,Wyoming,1977,5.3
+471,,1977,
+472,,1977,
+473,,1977,
+474,,1977,
+475,,1977,
+476,,1977,
+477,,1977,
+478,,1977,
+479,,1977,
+480,Alabama,1978,28.9
+481,Alaska,1978,7.0
+482,Arizona,1978,18.7
+483,Arkansas,1978,16.1
+484,California,1978,169.6
+485,Colorado,1978,19.8
+486,Connecticut,1978,14.6
+487,Delaware,1978,3.9
+488,District of Columbia,1978,2.5
+489,Florida,1978,62.6
+490,Georgia,1978,39.2
+491,Hawaii,1978,10.3
+492,Idaho,1978,6.5
+493,Illinois,1978,69.0
+494,Indiana,1978,33.0
+495,Iowa,1978,18.4
+496,Kansas,1978,19.3
+497,Kentucky,1978,23.4
+498,Louisiana,1978,40.9
+499,Maine,1978,7.0
+500,Maryland,1978,23.3
+501,Massachusetts,1978,27.4
+502,Michigan,1978,51.3
+503,Minnesota,1978,24.7
+504,Mississippi,1978,17.9
+505,Missouri,1978,33.3
+506,Montana,1978,6.9
+507,Nebraska,1978,12.2
+508,Nevada,1978,8.1
+509,New Hampshire,1978,4.5
+510,New Jersey,1978,40.6
+511,New Mexico,1978,12.0
+512,New York,1978,76.9
+513,North Carolina,1978,34.4
+514,North Dakota,1978,5.2
+515,Ohio,1978,59.5
+516,Oklahoma,1978,22.4
+517,Oregon,1978,18.7
+518,Pennsylvania,1978,61.3
+519,Rhode Island,1978,3.9
+520,South Carolina,1978,18.9
+521,South Dakota,1978,4.9
+522,Tennessee,1978,31.4
+523,Texas,1978,129.7
+524,Utah,1978,9.3
+525,Vermont,1978,2.7
+526,Virginia,1978,36.6
+527,Washington,1978,29.0
+528,West Virginia,1978,10.7
+529,Wisconsin,1978,25.6
+530,Wyoming,1978,6.0
+531,,1978,
+532,,1978,
+533,,1978,
+534,,1978,
+535,,1978,
+536,,1978,
+537,,1978,
+538,,1978,
+539,,1978,
+540,Alabama,1979,25.0
+541,Alaska,1979,6.1
+542,Arizona,1979,19.2
+543,Arkansas,1979,14.0
+544,California,1979,168.2
+545,Colorado,1979,19.1
+546,Connecticut,1979,13.8
+547,Delaware,1979,3.7
+548,District of Columbia,1979,2.1
+549,Florida,1979,66.6
+550,Georgia,1979,40.6
+551,Hawaii,1979,11.2
+552,Idaho,1979,7.1
+553,Illinois,1979,65.7
+554,Indiana,1979,33.5
+555,Iowa,1979,18.3
+556,Kansas,1979,19.6
+557,Kentucky,1979,24.0
+558,Louisiana,1979,40.9
+559,Maine,1979,6.7
+560,Maryland,1979,22.7
+561,Massachusetts,1979,27.4
+562,Michigan,1979,48.8
+563,Minnesota,1979,25.4
+564,Mississippi,1979,17.7
+565,Missouri,1979,31.7
+566,Montana,1979,6.5
+567,Nebraska,1979,11.0
+568,Nevada,1979,8.1
+569,New Hampshire,1979,4.7
+570,New Jersey,1979,39.5
+571,New Mexico,1979,11.8
+572,New York,1979,76.1
+573,North Carolina,1979,34.2
+574,North Dakota,1979,5.2
+575,Ohio,1979,57.7
+576,Oklahoma,1979,22.2
+577,Oregon,1979,19.2
+578,Pennsylvania,1979,60.1
+579,Rhode Island,1979,3.9
+580,South Carolina,1979,18.8
+581,South Dakota,1979,5.0
+582,Tennessee,1979,31.8
+583,Texas,1979,134.0
+584,Utah,1979,9.4
+585,Vermont,1979,2.6
+586,Virginia,1979,35.9
+587,Washington,1979,31.3
+588,West Virginia,1979,10.6
+589,Wisconsin,1979,25.2
+590,Wyoming,1979,6.1
+591,,1979,
+592,,1979,
+593,,1979,
+594,,1979,
+595,,1979,
+596,,1979,
+597,,1979,
+598,,1979,
+599,,1979,
+600,Alabama,1980,24.8
+601,Alaska,1980,6.4
+602,Arizona,1980,18.6
+603,Arkansas,1980,14.3
+604,California,1980,169.5
+605,Colorado,1980,17.8
+606,Connecticut,1980,13.2
+607,Delaware,1980,3.9
+608,District of Columbia,1980,1.9
+609,Florida,1980,68.0
+610,Georgia,1980,39.1
+611,Hawaii,1980,10.5
+612,Idaho,1980,5.9
+613,Illinois,1980,58.0
+614,Indiana,1980,31.4
+615,Iowa,1980,16.7
+616,Kansas,1980,19.0
+617,Kentucky,1980,22.8
+618,Louisiana,1980,45.4
+619,Maine,1980,5.9
+620,Maryland,1980,22.7
+621,Massachusetts,1980,25.4
+622,Michigan,1980,43.8
+623,Minnesota,1980,23.4
+624,Mississippi,1980,18.0
+625,Missouri,1980,29.1
+626,Montana,1980,6.3
+627,Nebraska,1980,9.9
+628,Nevada,1980,8.3
+629,New Hampshire,1980,4.1
+630,New Jersey,1980,40.6
+631,New Mexico,1980,11.9
+632,New York,1980,71.5
+633,North Carolina,1980,31.5
+634,North Dakota,1980,5.2
+635,Ohio,1980,55.9
+636,Oklahoma,1980,21.5
+637,Oregon,1980,17.0
+638,Pennsylvania,1980,57.7
+639,Rhode Island,1980,3.7
+640,South Carolina,1980,17.7
+641,South Dakota,1980,4.5
+642,Tennessee,1980,28.9
+643,Texas,1980,127.8
+644,Utah,1980,9.0
+645,Vermont,1980,2.4
+646,Virginia,1980,34.3
+647,Washington,1980,29.8
+648,West Virginia,1980,10.2
+649,Wisconsin,1980,23.3
+650,Wyoming,1980,6.3
+651,,1980,
+652,,1980,
+653,,1980,
+654,,1980,
+655,,1980,
+656,,1980,
+657,,1980,
+658,,1980,
+659,,1980,
+660,Alabama,1981,24.2
+661,Alaska,1981,7.2
+662,Arizona,1981,18.7
+663,Arkansas,1981,14.7
+664,California,1981,168.0
+665,Colorado,1981,17.6
+666,Connecticut,1981,12.9
+667,Delaware,1981,3.7
+668,District of Columbia,1981,2.0
+669,Florida,1981,68.1
+670,Georgia,1981,38.6
+671,Hawaii,1981,8.9
+672,Idaho,1981,5.4
+673,Illinois,1981,55.3
+674,Indiana,1981,31.8
+675,Iowa,1981,15.7
+676,Kansas,1981,18.1
+677,Kentucky,1981,22.7
+678,Louisiana,1981,46.4
+679,Maine,1981,5.9
+680,Maryland,1981,23.1
+681,Massachusetts,1981,25.5
+682,Michigan,1981,42.3
+683,Minnesota,1981,22.4
+684,Mississippi,1981,17.7
+685,Missouri,1981,28.3
+686,Montana,1981,5.9
+687,Nebraska,1981,9.2
+688,Nevada,1981,8.2
+689,New Hampshire,1981,4.0
+690,New Jersey,1981,44.0
+691,New Mexico,1981,13.1
+692,New York,1981,66.9
+693,North Carolina,1981,31.8
+694,North Dakota,1981,5.2
+695,Ohio,1981,54.2
+696,Oklahoma,1981,23.0
+697,Oregon,1981,17.8
+698,Pennsylvania,1981,54.6
+699,Rhode Island,1981,3.6
+700,South Carolina,1981,17.5
+701,South Dakota,1981,4.3
+702,Tennessee,1981,28.9
+703,Texas,1981,129.5
+704,Utah,1981,8.8
+705,Vermont,1981,2.4
+706,Virginia,1981,34.4
+707,Washington,1981,29.1
+708,West Virginia,1981,9.9
+709,Wisconsin,1981,22.7
+710,Wyoming,1981,6.3
+711,,1981,
+712,,1981,
+713,,1981,
+714,,1981,
+715,,1981,
+716,,1981,
+717,,1981,
+718,,1981,
+719,,1981,
+720,Alabama,1982,23.5
+721,Alaska,1982,7.3
+722,Arizona,1982,18.3
+723,Arkansas,1982,14.7
+724,California,1982,159.2
+725,Colorado,1982,18.3
+726,Connecticut,1982,13.2
+727,Delaware,1982,3.5
+728,District of Columbia,1982,2.6
+729,Florida,1982,66.8
+730,Georgia,1982,38.6
+731,Hawaii,1982,7.3
+732,Idaho,1982,5.3
+733,Illinois,1982,53.9
+734,Indiana,1982,30.6
+735,Iowa,1982,15.8
+736,Kansas,1982,17.4
+737,Kentucky,1982,22.4
+738,Louisiana,1982,40.7
+739,Maine,1982,6.1
+740,Maryland,1982,22.3
+741,Massachusetts,1982,25.7
+742,Michigan,1982,39.8
+743,Minnesota,1982,21.7
+744,Mississippi,1982,17.4
+745,Missouri,1982,28.8
+746,Montana,1982,5.7
+747,Nebraska,1982,9.5
+748,Nevada,1982,8.1
+749,New Hampshire,1982,4.0
+750,New Jersey,1982,51.2
+751,New Mexico,1982,11.8
+752,New York,1982,59.9
+753,North Carolina,1982,31.9
+754,North Dakota,1982,5.2
+755,Ohio,1982,52.1
+756,Oklahoma,1982,24.3
+757,Oregon,1982,17.9
+758,Pennsylvania,1982,51.3
+759,Rhode Island,1982,3.6
+760,South Carolina,1982,17.5
+761,South Dakota,1982,4.4
+762,Tennessee,1982,28.1
+763,Texas,1982,133.4
+764,Utah,1982,8.7
+765,Vermont,1982,2.3
+766,Virginia,1982,33.1
+767,Washington,1982,27.2
+768,West Virginia,1982,9.5
+769,Wisconsin,1982,21.6
+770,Wyoming,1982,5.6
+771,,1982,
+772,,1982,
+773,,1982,
+774,,1982,
+775,,1982,
+776,,1982,
+777,,1982,
+778,,1982,
+779,,1982,
+780,Alabama,1983,22.9
+781,Alaska,1983,8.3
+782,Arizona,1983,18.5
+783,Arkansas,1983,13.8
+784,California,1983,160.8
+785,Colorado,1983,18.0
+786,Connecticut,1983,13.3
+787,Delaware,1983,4.0
+788,District of Columbia,1983,2.0
+789,Florida,1983,66.8
+790,Georgia,1983,40.0
+791,Hawaii,1983,8.4
+792,Idaho,1983,5.2
+793,Illinois,1983,55.4
+794,Indiana,1983,30.7
+795,Iowa,1983,15.6
+796,Kansas,1983,16.9
+797,Kentucky,1983,23.4
+798,Louisiana,1983,42.4
+799,Maine,1983,6.0
+800,Maryland,1983,21.8
+801,Massachusetts,1983,25.7
+802,Michigan,1983,40.2
+803,Minnesota,1983,22.0
+804,Mississippi,1983,16.8
+805,Missouri,1983,29.1
+806,Montana,1983,5.9
+807,Nebraska,1983,10.0
+808,Nevada,1983,8.2
+809,New Hampshire,1983,4.1
+810,New Jersey,1983,54.7
+811,New Mexico,1983,10.7
+812,New York,1983,54.2
+813,North Carolina,1983,33.3
+814,North Dakota,1983,4.9
+815,Ohio,1983,51.8
+816,Oklahoma,1983,24.0
+817,Oregon,1983,16.9
+818,Pennsylvania,1983,52.1
+819,Rhode Island,1983,3.6
+820,South Carolina,1983,18.0
+821,South Dakota,1983,4.2
+822,Tennessee,1983,28.0
+823,Texas,1983,132.7
+824,Utah,1983,9.0
+825,Vermont,1983,2.4
+826,Virginia,1983,33.9
+827,Washington,1983,26.1
+828,West Virginia,1983,10.4
+829,Wisconsin,1983,21.7
+830,Wyoming,1983,4.7
+831,,1983,
+832,,1983,
+833,,1983,
+834,,1983,
+835,,1983,
+836,,1983,
+837,,1983,
+838,,1983,
+839,,1983,
+840,Alabama,1984,23.9
+841,Alaska,1984,10.1
+842,Arizona,1984,19.7
+843,Arkansas,1984,14.6
+844,California,1984,169.5
+845,Colorado,1984,18.8
+846,Connecticut,1984,13.9
+847,Delaware,1984,4.1
+848,District of Columbia,1984,1.9
+849,Florida,1984,65.6
+850,Georgia,1984,41.6
+851,Hawaii,1984,9.2
+852,Idaho,1984,5.5
+853,Illinois,1984,49.3
+854,Indiana,1984,35.9
+855,Iowa,1984,15.6
+856,Kansas,1984,17.4
+857,Kentucky,1984,23.5
+858,Louisiana,1984,42.2
+859,Maine,1984,6.4
+860,Maryland,1984,21.9
+861,Massachusetts,1984,26.2
+862,Michigan,1984,41.8
+863,Minnesota,1984,24.1
+864,Mississippi,1984,16.8
+865,Missouri,1984,29.9
+866,Montana,1984,5.9
+867,Nebraska,1984,9.8
+868,Nevada,1984,7.9
+869,New Hampshire,1984,4.5
+870,New Jersey,1984,57.0
+871,New Mexico,1984,9.9
+872,New York,1984,49.4
+873,North Carolina,1984,34.0
+874,North Dakota,1984,5.0
+875,Ohio,1984,52.6
+876,Oklahoma,1984,24.1
+877,Oregon,1984,16.5
+878,Pennsylvania,1984,53.1
+879,Rhode Island,1984,3.8
+880,South Carolina,1984,18.8
+881,South Dakota,1984,4.4
+882,Tennessee,1984,29.9
+883,Texas,1984,138.3
+884,Utah,1984,9.1
+885,Vermont,1984,2.6
+886,Virginia,1984,34.2
+887,Washington,1984,28.0
+888,West Virginia,1984,10.9
+889,Wisconsin,1984,21.7
+890,Wyoming,1984,4.8
+891,,1984,
+892,,1984,
+893,,1984,
+894,,1984,
+895,,1984,
+896,,1984,
+897,,1984,
+898,,1984,
+899,,1984,
+900,Alabama,1985,23.6
+901,Alaska,1985,10.9
+902,Arizona,1985,20.6
+903,Arkansas,1985,14.4
+904,California,1985,168.9
+905,Colorado,1985,19.4
+906,Connecticut,1985,14.0
+907,Delaware,1985,4.1
+908,District of Columbia,1985,1.9
+909,Florida,1985,67.9
+910,Georgia,1985,42.1
+911,Hawaii,1985,10.2
+912,Idaho,1985,5.6
+913,Illinois,1985,50.7
+914,Indiana,1985,36.5
+915,Iowa,1985,15.3
+916,Kansas,1985,18.2
+917,Kentucky,1985,22.4
+918,Louisiana,1985,41.3
+919,Maine,1985,6.7
+920,Maryland,1985,22.6
+921,Massachusetts,1985,27.0
+922,Michigan,1985,43.0
+923,Minnesota,1985,23.3
+924,Mississippi,1985,17.5
+925,Missouri,1985,30.6
+926,Montana,1985,5.8
+927,Nebraska,1985,9.8
+928,Nevada,1985,7.9
+929,New Hampshire,1985,4.5
+930,New Jersey,1985,57.0
+931,New Mexico,1985,11.1
+932,New York,1985,58.2
+933,North Carolina,1985,35.0
+934,North Dakota,1985,4.9
+935,Ohio,1985,53.2
+936,Oklahoma,1985,23.8
+937,Oregon,1985,17.2
+938,Pennsylvania,1985,53.6
+939,Rhode Island,1985,3.6
+940,South Carolina,1985,19.0
+941,South Dakota,1985,4.6
+942,Tennessee,1985,30.5
+943,Texas,1985,143.2
+944,Utah,1985,9.4
+945,Vermont,1985,2.6
+946,Virginia,1985,35.6
+947,Washington,1985,29.6
+948,West Virginia,1985,10.8
+949,Wisconsin,1985,22.1
+950,Wyoming,1985,4.8
+951,,1985,
+952,,1985,
+953,,1985,
+954,,1985,
+955,,1985,
+956,,1985,
+957,,1985,
+958,,1985,
+959,,1985,
+960,Alabama,1986,24.5
+961,Alaska,1986,10.7
+962,Arizona,1986,21.2
+963,Arkansas,1986,14.7
+964,California,1986,174.8
+965,Colorado,1986,19.6
+966,Connecticut,1986,14.3
+967,Delaware,1986,4.3
+968,District of Columbia,1986,2.1
+969,Florida,1986,71.7
+970,Georgia,1986,44.3
+971,Hawaii,1986,9.1
+972,Idaho,1986,5.7
+973,Illinois,1986,49.9
+974,Indiana,1986,38.7
+975,Iowa,1986,15.0
+976,Kansas,1986,18.6
+977,Kentucky,1986,23.5
+978,Louisiana,1986,46.6
+979,Maine,1986,7.2
+980,Maryland,1986,23.2
+981,Massachusetts,1986,27.6
+982,Michigan,1986,44.4
+983,Minnesota,1986,23.4
+984,Mississippi,1986,18.8
+985,Missouri,1986,32.0
+986,Montana,1986,5.8
+987,Nebraska,1986,9.8
+988,Nevada,1986,8.2
+989,New Hampshire,1986,4.9
+990,New Jersey,1986,59.1
+991,New Mexico,1986,11.6
+992,New York,1986,59.3
+993,North Carolina,1986,37.0
+994,North Dakota,1986,4.7
+995,Ohio,1986,54.9
+996,Oklahoma,1986,22.7
+997,Oregon,1986,17.6
+998,Pennsylvania,1986,55.7
+999,Rhode Island,1986,4.0
+1000,South Carolina,1986,19.6
+1001,South Dakota,1986,4.3
+1002,Tennessee,1986,32.6
+1003,Texas,1986,146.7
+1004,Utah,1986,10.1
+1005,Vermont,1986,2.7
+1006,Virginia,1986,37.5
+1007,Washington,1986,34.6
+1008,West Virginia,1986,9.6
+1009,Wisconsin,1986,22.5
+1010,Wyoming,1986,4.5
+1011,,1986,
+1012,,1986,
+1013,,1986,
+1014,,1986,
+1015,,1986,
+1016,,1986,
+1017,,1986,
+1018,,1986,
+1019,,1986,
+1020,Alabama,1987,26.0
+1021,Alaska,1987,9.5
+1022,Arizona,1987,22.0
+1023,Arkansas,1987,15.4
+1024,California,1987,184.0
+1025,Colorado,1987,19.8
+1026,Connecticut,1987,14.9
+1027,Delaware,1987,4.7
+1028,District of Columbia,1987,1.9
+1029,Florida,1987,76.1
+1030,Georgia,1987,47.2
+1031,Hawaii,1987,8.9
+1032,Idaho,1987,5.8
+1033,Illinois,1987,50.3
+1034,Indiana,1987,40.4
+1035,Iowa,1987,15.7
+1036,Kansas,1987,19.1
+1037,Kentucky,1987,24.4
+1038,Louisiana,1987,45.8
+1039,Maine,1987,7.8
+1040,Maryland,1987,24.1
+1041,Massachusetts,1987,28.6
+1042,Michigan,1987,46.6
+1043,Minnesota,1987,23.4
+1044,Mississippi,1987,20.5
+1045,Missouri,1987,32.7
+1046,Montana,1987,5.8
+1047,Nebraska,1987,10.2
+1048,Nevada,1987,9.0
+1049,New Hampshire,1987,5.3
+1050,New Jersey,1987,60.1
+1051,New Mexico,1987,12.1
+1052,New York,1987,62.7
+1053,North Carolina,1987,38.8
+1054,North Dakota,1987,4.8
+1055,Ohio,1987,56.5
+1056,Oklahoma,1987,23.1
+1057,Oregon,1987,18.7
+1058,Pennsylvania,1987,59.0
+1059,Rhode Island,1987,4.3
+1060,South Carolina,1987,19.3
+1061,South Dakota,1987,4.4
+1062,Tennessee,1987,31.9
+1063,Texas,1987,143.5
+1064,Utah,1987,10.4
+1065,Vermont,1987,3.0
+1066,Virginia,1987,40.2
+1067,Washington,1987,35.5
+1068,West Virginia,1987,10.1
+1069,Wisconsin,1987,22.7
+1070,Wyoming,1987,5.5
+1071,,1987,
+1072,,1987,
+1073,,1987,
+1074,,1987,
+1075,,1987,
+1076,,1987,
+1077,,1987,
+1078,,1987,
+1079,,1987,
+1080,Alabama,1988,26.4
+1081,Alaska,1988,10.7
+1082,Arizona,1988,22.7
+1083,Arkansas,1988,16.1
+1084,California,1988,194.7
+1085,Colorado,1988,19.2
+1086,Connecticut,1988,15.5
+1087,Delaware,1988,4.6
+1088,District of Columbia,1988,2.0
+1089,Florida,1988,80.6
+1090,Georgia,1988,49.5
+1091,Hawaii,1988,10.1
+1092,Idaho,1988,5.9
+1093,Illinois,1988,53.9
+1094,Indiana,1988,39.3
+1095,Iowa,1988,16.1
+1096,Kansas,1988,20.1
+1097,Kentucky,1988,26.5
+1098,Louisiana,1988,49.0
+1099,Maine,1988,8.8
+1100,Maryland,1988,25.0
+1101,Massachusetts,1988,29.8
+1102,Michigan,1988,48.3
+1103,Minnesota,1988,24.4
+1104,Mississippi,1988,21.5
+1105,Missouri,1988,33.7
+1106,Montana,1988,6.0
+1107,Nebraska,1988,11.2
+1108,Nevada,1988,9.3
+1109,New Hampshire,1988,5.5
+1110,New Jersey,1988,57.4
+1111,New Mexico,1988,12.8
+1112,New York,1988,59.8
+1113,North Carolina,1988,41.1
+1114,North Dakota,1988,4.8
+1115,Ohio,1988,57.0
+1116,Oklahoma,1988,23.5
+1117,Oregon,1988,20.0
+1118,Pennsylvania,1988,61.2
+1119,Rhode Island,1988,4.4
+1120,South Carolina,1988,21.2
+1121,South Dakota,1988,4.5
+1122,Tennessee,1988,32.3
+1123,Texas,1988,151.2
+1124,Utah,1988,10.8
+1125,Vermont,1988,3.2
+1126,Virginia,1988,42.5
+1127,Washington,1988,37.2
+1128,West Virginia,1988,10.4
+1129,Wisconsin,1988,24.3
+1130,Wyoming,1988,5.9
+1131,,1988,
+1132,,1988,
+1133,,1988,
+1134,,1988,
+1135,,1988,
+1136,,1988,
+1137,,1988,
+1138,,1988,
+1139,,1988,
+1140,Alabama,1989,28.3
+1141,Alaska,1989,12.4
+1142,Arizona,1989,22.6
+1143,Arkansas,1989,16.5
+1144,California,1989,201.0
+1145,Colorado,1989,18.7
+1146,Connecticut,1989,15.6
+1147,Delaware,1989,4.7
+1148,District of Columbia,1989,2.0
+1149,Florida,1989,81.3
+1150,Georgia,1989,48.0
+1151,Hawaii,1989,11.1
+1152,Idaho,1989,6.2
+1153,Illinois,1989,54.8
+1154,Indiana,1989,40.3
+1155,Iowa,1989,16.2
+1156,Kansas,1989,19.5
+1157,Kentucky,1989,28.1
+1158,Louisiana,1989,49.1
+1159,Maine,1989,7.9
+1160,Maryland,1989,25.7
+1161,Massachusetts,1989,29.8
+1162,Michigan,1989,47.8
+1163,Minnesota,1989,24.0
+1164,Mississippi,1989,20.0
+1165,Missouri,1989,34.2
+1166,Montana,1989,5.9
+1167,Nebraska,1989,10.5
+1168,Nevada,1989,9.4
+1169,New Hampshire,1989,5.5
+1170,New Jersey,1989,59.0
+1171,New Mexico,1989,13.5
+1172,New York,1989,60.0
+1173,North Carolina,1989,39.2
+1174,North Dakota,1989,4.7
+1175,Ohio,1989,57.2
+1176,Oklahoma,1989,24.7
+1177,Oregon,1989,20.2
+1178,Pennsylvania,1989,57.7
+1179,Rhode Island,1989,4.3
+1180,South Carolina,1989,20.5
+1181,South Dakota,1989,4.5
+1182,Tennessee,1989,33.3
+1183,Texas,1989,151.8
+1184,Utah,1989,10.2
+1185,Vermont,1989,3.0
+1186,Virginia,1989,40.8
+1187,Washington,1989,40.2
+1188,West Virginia,1989,10.5
+1189,Wisconsin,1989,24.4
+1190,Wyoming,1989,6.0
+1191,,1989,
+1192,,1989,
+1193,,1989,
+1194,,1989,
+1195,,1989,
+1196,,1989,
+1197,,1989,
+1198,,1989,
+1199,,1989,
+1200,Alabama,1990,28.0
+1201,Alaska,1990,12.1
+1202,Arizona,1990,22.8
+1203,Arkansas,1990,16.1
+1204,California,1990,202.2
+1205,Colorado,1990,19.1
+1206,Connecticut,1990,14.6
+1207,Delaware,1990,4.5
+1208,District of Columbia,1990,1.8
+1209,Florida,1990,81.3
+1210,Georgia,1990,48.5
+1211,Hawaii,1990,11.1
+1212,Idaho,1990,6.3
+1213,Illinois,1990,54.1
+1214,Indiana,1990,40.7
+1215,Iowa,1990,16.2
+1216,Kansas,1990,19.2
+1217,Kentucky,1990,26.3
+1218,Louisiana,1990,48.8
+1219,Maine,1990,8.3
+1220,Maryland,1990,23.6
+1221,Massachusetts,1990,28.8
+1222,Michigan,1990,47.7
+1223,Minnesota,1990,23.6
+1224,Mississippi,1990,20.2
+1225,Missouri,1990,33.6
+1226,Montana,1990,5.8
+1227,Nebraska,1990,10.5
+1228,Nevada,1990,9.4
+1229,New Hampshire,1990,5.2
+1230,New Jersey,1990,56.9
+1231,New Mexico,1990,14.8
+1232,New York,1990,63.9
+1233,North Carolina,1990,38.2
+1234,North Dakota,1990,4.6
+1235,Ohio,1990,55.8
+1236,Oklahoma,1990,23.7
+1237,Oregon,1990,19.9
+1238,Pennsylvania,1990,59.3
+1239,Rhode Island,1990,4.1
+1240,South Carolina,1990,22.0
+1241,South Dakota,1990,4.6
+1242,Tennessee,1990,32.7
+1243,Texas,1990,152.1
+1244,Utah,1990,10.6
+1245,Vermont,1990,3.0
+1246,Virginia,1990,41.4
+1247,Washington,1990,40.9
+1248,West Virginia,1990,10.3
+1249,Wisconsin,1990,24.2
+1250,Wyoming,1990,5.7
+1251,,1990,
+1252,,1990,
+1253,,1990,
+1254,,1990,
+1255,,1990,
+1256,,1990,
+1257,,1990,
+1258,,1990,
+1259,,1990,
+1260,Alabama,1991,28.6
+1261,Alaska,1991,11.1
+1262,Arizona,1991,23.3
+1263,Arkansas,1991,16.2
+1264,California,1991,191.8
+1265,Colorado,1991,19.3
+1266,Connecticut,1991,14.5
+1267,Delaware,1991,5.1
+1268,District of Columbia,1991,1.8
+1269,Florida,1991,77.0
+1270,Georgia,1991,47.3
+1271,Hawaii,1991,10.9
+1272,Idaho,1991,6.2
+1273,Illinois,1991,51.9
+1274,Indiana,1991,39.7
+1275,Iowa,1991,15.7
+1276,Kansas,1991,17.9
+1277,Kentucky,1991,26.3
+1278,Louisiana,1991,51.3
+1279,Maine,1991,7.6
+1280,Maryland,1991,24.0
+1281,Massachusetts,1991,27.6
+1282,Michigan,1991,48.4
+1283,Minnesota,1991,24.8
+1284,Mississippi,1991,22.0
+1285,Missouri,1991,33.5
+1286,Montana,1991,5.7
+1287,Nebraska,1991,10.2
+1288,Nevada,1991,9.8
+1289,New Hampshire,1991,5.3
+1290,New Jersey,1991,57.7
+1291,New Mexico,1991,14.6
+1292,New York,1991,62.3
+1293,North Carolina,1991,37.8
+1294,North Dakota,1991,4.7
+1295,Ohio,1991,55.2
+1296,Oklahoma,1991,24.4
+1297,Oregon,1991,21.5
+1298,Pennsylvania,1991,59.2
+1299,Rhode Island,1991,4.1
+1300,South Carolina,1991,22.8
+1301,South Dakota,1991,4.4
+1302,Tennessee,1991,31.1
+1303,Texas,1991,149.1
+1304,Utah,1991,11.0
+1305,Vermont,1991,3.0
+1306,Virginia,1991,40.5
+1307,Washington,1991,41.5
+1308,West Virginia,1991,10.2
+1309,Wisconsin,1991,24.0
+1310,Wyoming,1991,5.3
+1311,,1991,
+1312,,1991,
+1313,,1991,
+1314,,1991,
+1315,,1991,
+1316,,1991,
+1317,,1991,
+1318,,1991,
+1319,,1991,
+1320,Alabama,1992,29.3
+1321,Alaska,1992,10.8
+1322,Arizona,1992,23.7
+1323,Arkansas,1992,16.1
+1324,California,1992,191.7
+1325,Colorado,1992,19.5
+1326,Connecticut,1992,14.6
+1327,Delaware,1992,4.7
+1328,District of Columbia,1992,1.8
+1329,Florida,1992,79.7
+1330,Georgia,1992,47.8
+1331,Hawaii,1992,10.4
+1332,Idaho,1992,6.3
+1333,Illinois,1992,52.7
+1334,Indiana,1992,39.2
+1335,Iowa,1992,15.5
+1336,Kansas,1992,17.7
+1337,Kentucky,1992,27.5
+1338,Louisiana,1992,51.4
+1339,Maine,1992,7.5
+1340,Maryland,1992,24.6
+1341,Massachusetts,1992,27.4
+1342,Michigan,1992,48.9
+1343,Minnesota,1992,26.1
+1344,Mississippi,1992,22.9
+1345,Missouri,1992,34.8
+1346,Montana,1992,6.2
+1347,Nebraska,1992,10.6
+1348,Nevada,1992,10.0
+1349,New Hampshire,1992,5.3
+1350,New Jersey,1992,58.0
+1351,New Mexico,1992,14.1
+1352,New York,1992,60.8
+1353,North Carolina,1992,38.5
+1354,North Dakota,1992,4.9
+1355,Ohio,1992,54.5
+1356,Oklahoma,1992,26.3
+1357,Oregon,1992,21.5
+1358,Pennsylvania,1992,60.4
+1359,Rhode Island,1992,4.1
+1360,South Carolina,1992,22.0
+1361,South Dakota,1992,5.0
+1362,Tennessee,1992,32.5
+1363,Texas,1992,152.6
+1364,Utah,1992,11.2
+1365,Vermont,1992,3.2
+1366,Virginia,1992,40.3
+1367,Washington,1992,46.1
+1368,West Virginia,1992,11.1
+1369,Wisconsin,1992,24.6
+1370,Wyoming,1992,5.6
+1371,,1992,
+1372,,1992,
+1373,,1992,
+1374,,1992,
+1375,,1992,
+1376,,1992,
+1377,,1992,
+1378,,1992,
+1379,,1992,
+1380,Alabama,1993,29.3
+1381,Alaska,1993,11.0
+1382,Arizona,1993,24.9
+1383,Arkansas,1993,16.9
+1384,California,1993,187.7
+1385,Colorado,1993,21.3
+1386,Connecticut,1993,14.7
+1387,Delaware,1993,4.9
+1388,District of Columbia,1993,1.9
+1389,Florida,1993,78.6
+1390,Georgia,1993,52.9
+1391,Hawaii,1993,9.3
+1392,Idaho,1993,7.1
+1393,Illinois,1993,55.6
+1394,Indiana,1993,41.0
+1395,Iowa,1993,16.0
+1396,Kansas,1993,17.9
+1397,Kentucky,1993,28.8
+1398,Louisiana,1993,51.2
+1399,Maine,1993,7.5
+1400,Maryland,1993,24.4
+1401,Massachusetts,1993,27.7
+1402,Michigan,1993,51.8
+1403,Minnesota,1993,27.5
+1404,Mississippi,1993,22.9
+1405,Missouri,1993,35.8
+1406,Montana,1993,6.4
+1407,Nebraska,1993,10.6
+1408,Nevada,1993,10.4
+1409,New Hampshire,1993,5.4
+1410,New Jersey,1993,54.9
+1411,New Mexico,1993,14.8
+1412,New York,1993,61.7
+1413,North Carolina,1993,39.9
+1414,North Dakota,1993,5.1
+1415,Ohio,1993,57.4
+1416,Oklahoma,1993,25.4
+1417,Oregon,1993,20.7
+1418,Pennsylvania,1993,61.8
+1419,Rhode Island,1993,4.1
+1420,South Carolina,1993,22.3
+1421,South Dakota,1993,5.1
+1422,Tennessee,1993,34.2
+1423,Texas,1993,151.6
+1424,Utah,1993,11.6
+1425,Vermont,1993,3.4
+1426,Virginia,1993,41.0
+1427,Washington,1993,42.1
+1428,West Virginia,1993,11.4
+1429,Wisconsin,1993,25.3
+1430,Wyoming,1993,5.9
+1431,,1993,
+1432,,1993,
+1433,,1993,
+1434,,1993,
+1435,,1993,
+1436,,1993,
+1437,,1993,
+1438,,1993,
+1439,,1993,
+1440,Alabama,1994,30.5
+1441,Alaska,1994,11.2
+1442,Arizona,1994,25.6
+1443,Arkansas,1994,18.0
+1444,California,1994,196.0
+1445,Colorado,1994,21.6
+1446,Connecticut,1994,14.6
+1447,Delaware,1994,4.5
+1448,District of Columbia,1994,1.8
+1449,Florida,1994,84.1
+1450,Georgia,1994,53.6
+1451,Hawaii,1994,10.0
+1452,Idaho,1994,7.3
+1453,Illinois,1994,53.7
+1454,Indiana,1994,42.6
+1455,Iowa,1994,17.0
+1456,Kansas,1994,17.0
+1457,Kentucky,1994,28.5
+1458,Louisiana,1994,53.8
+1459,Maine,1994,7.7
+1460,Maryland,1994,24.3
+1461,Massachusetts,1994,27.8
+1462,Michigan,1994,51.8
+1463,Minnesota,1994,28.4
+1464,Mississippi,1994,23.0
+1465,Missouri,1994,36.8
+1466,Montana,1994,6.7
+1467,Nebraska,1994,10.8
+1468,Nevada,1994,11.0
+1469,New Hampshire,1994,5.5
+1470,New Jersey,1994,60.0
+1471,New Mexico,1994,14.1
+1472,New York,1994,60.6
+1473,North Carolina,1994,41.1
+1474,North Dakota,1994,5.1
+1475,Ohio,1994,58.0
+1476,Oklahoma,1994,26.3
+1477,Oregon,1994,21.4
+1478,Pennsylvania,1994,62.1
+1479,Rhode Island,1994,4.0
+1480,South Carolina,1994,22.7
+1481,South Dakota,1994,5.4
+1482,Tennessee,1994,35.1
+1483,Texas,1994,155.2
+1484,Utah,1994,11.8
+1485,Vermont,1994,3.4
+1486,Virginia,1994,41.7
+1487,Washington,1994,43.1
+1488,West Virginia,1994,12.0
+1489,Wisconsin,1994,26.8
+1490,Wyoming,1994,5.8
+1491,,1994,
+1492,,1994,
+1493,,1994,
+1494,,1994,
+1495,,1994,
+1496,,1994,
+1497,,1994,
+1498,,1994,
+1499,,1994,
+1500,Alabama,1995,32.0
+1501,Alaska,1995,12.3
+1502,Arizona,1995,26.1
+1503,Arkansas,1995,18.4
+1504,California,1995,200.2
+1505,Colorado,1995,22.3
+1506,Connecticut,1995,14.3
+1507,Delaware,1995,4.3
+1508,District of Columbia,1995,1.8
+1509,Florida,1995,86.3
+1510,Georgia,1995,56.2
+1511,Hawaii,1995,9.9
+1512,Idaho,1995,7.8
+1513,Illinois,1995,55.3
+1514,Indiana,1995,43.7
+1515,Iowa,1995,17.7
+1516,Kansas,1995,18.9
+1517,Kentucky,1995,29.6
+1518,Louisiana,1995,53.9
+1519,Maine,1995,7.3
+1520,Maryland,1995,24.7
+1521,Massachusetts,1995,28.3
+1522,Michigan,1995,53.3
+1523,Minnesota,1995,29.5
+1524,Mississippi,1995,23.2
+1525,Missouri,1995,38.2
+1526,Montana,1995,7.0
+1527,Nebraska,1995,11.5
+1528,Nevada,1995,11.4
+1529,New Hampshire,1995,5.7
+1530,New Jersey,1995,61.0
+1531,New Mexico,1995,12.7
+1532,New York,1995,62.5
+1533,North Carolina,1995,42.8
+1534,North Dakota,1995,5.1
+1535,Ohio,1995,59.1
+1536,Oklahoma,1995,25.1
+1537,Oregon,1995,21.1
+1538,Pennsylvania,1995,62.9
+1539,Rhode Island,1995,4.1
+1540,South Carolina,1995,22.7
+1541,South Dakota,1995,5.5
+1542,Tennessee,1995,37.0
+1543,Texas,1995,153.1
+1544,Utah,1995,12.9
+1545,Vermont,1995,3.6
+1546,Virginia,1995,42.4
+1547,Washington,1995,45.2
+1548,West Virginia,1995,12.2
+1549,Wisconsin,1995,27.4
+1550,Wyoming,1995,6.7
+1551,,1995,
+1552,,1995,
+1553,,1995,
+1554,,1995,
+1555,,1995,
+1556,,1995,
+1557,,1995,
+1558,,1995,
+1559,,1995,
+1560,Alabama,1996,31.4
+1561,Alaska,1996,12.0
+1562,Arizona,1996,27.7
+1563,Arkansas,1996,18.8
+1564,California,1996,204.4
+1565,Colorado,1996,22.8
+1566,Connecticut,1996,15.1
+1567,Delaware,1996,4.8
+1568,District of Columbia,1996,1.7
+1569,Florida,1996,87.3
+1570,Georgia,1996,59.6
+1571,Hawaii,1996,8.7
+1572,Idaho,1996,7.9
+1573,Illinois,1996,57.3
+1574,Indiana,1996,43.0
+1575,Iowa,1996,19.0
+1576,Kansas,1996,18.8
+1577,Kentucky,1996,27.9
+1578,Louisiana,1996,59.2
+1579,Maine,1996,7.5
+1580,Maryland,1996,25.4
+1581,Massachusetts,1996,29.7
+1582,Michigan,1996,54.0
+1583,Minnesota,1996,30.5
+1584,Mississippi,1996,23.5
+1585,Missouri,1996,40.3
+1586,Montana,1996,6.9
+1587,Nebraska,1996,12.6
+1588,Nevada,1996,12.8
+1589,New Hampshire,1996,5.9
+1590,New Jersey,1996,59.1
+1591,New Mexico,1996,12.7
+1592,New York,1996,65.7
+1593,North Carolina,1996,45.3
+1594,North Dakota,1996,5.2
+1595,Ohio,1996,62.2
+1596,Oklahoma,1996,26.6
+1597,Oregon,1996,21.9
+1598,Pennsylvania,1996,62.6
+1599,Rhode Island,1996,4.2
+1600,South Carolina,1996,23.2
+1601,South Dakota,1996,5.5
+1602,Tennessee,1996,38.3
+1603,Texas,1996,166.5
+1604,Utah,1996,13.5
+1605,Vermont,1996,3.7
+1606,Virginia,1996,42.9
+1607,Washington,1996,44.6
+1608,West Virginia,1996,11.0
+1609,Wisconsin,1996,27.8
+1610,Wyoming,1996,6.7
+1611,,1996,
+1612,,1996,
+1613,,1996,
+1614,,1996,
+1615,,1996,
+1616,,1996,
+1617,,1996,
+1618,,1996,
+1619,,1996,
+1620,Alabama,1997,31.1
+1621,Alaska,1997,13.5
+1622,Arizona,1997,27.7
+1623,Arkansas,1997,19.3
+1624,California,1997,199.2
+1625,Colorado,1997,22.7
+1626,Connecticut,1997,15.2
+1627,Delaware,1997,4.7
+1628,District of Columbia,1997,1.8
+1629,Florida,1997,90.4
+1630,Georgia,1997,57.3
+1631,Hawaii,1997,8.4
+1632,Idaho,1997,8.1
+1633,Illinois,1997,57.7
+1634,Indiana,1997,43.1
+1635,Iowa,1997,18.5
+1636,Kansas,1997,18.6
+1637,Kentucky,1997,30.1
+1638,Louisiana,1997,56.5
+1639,Maine,1997,7.9
+1640,Maryland,1997,26.1
+1641,Massachusetts,1997,30.1
+1642,Michigan,1997,55.1
+1643,Minnesota,1997,30.0
+1644,Mississippi,1997,24.3
+1645,Missouri,1997,41.2
+1646,Montana,1997,7.0
+1647,Nebraska,1997,12.8
+1648,Nevada,1997,12.7
+1649,New Hampshire,1997,6.2
+1650,New Jersey,1997,59.8
+1651,New Mexico,1997,15.5
+1652,New York,1997,65.6
+1653,North Carolina,1997,46.1
+1654,North Dakota,1997,5.3
+1655,Ohio,1997,64.0
+1656,Oklahoma,1997,26.3
+1657,Oregon,1997,22.0
+1658,Pennsylvania,1997,65.4
+1659,Rhode Island,1997,4.6
+1660,South Carolina,1997,24.3
+1661,South Dakota,1997,5.4
+1662,Tennessee,1997,38.6
+1663,Texas,1997,170.9
+1664,Utah,1997,14.1
+1665,Vermont,1997,3.6
+1666,Virginia,1997,44.3
+1667,Washington,1997,45.7
+1668,West Virginia,1997,12.0
+1669,Wisconsin,1997,27.9
+1670,Wyoming,1997,6.9
+1671,,1997,
+1672,,1997,
+1673,,1997,
+1674,,1997,
+1675,,1997,
+1676,,1997,
+1677,,1997,
+1678,,1997,
+1679,,1997,
+1680,Alabama,1998,31.7
+1681,Alaska,1998,13.7
+1682,Arizona,1998,29.9
+1683,Arkansas,1998,19.6
+1684,California,1998,200.0
+1685,Colorado,1998,23.8
+1686,Connecticut,1998,15.4
+1687,Delaware,1998,4.7
+1688,District of Columbia,1998,1.7
+1689,Florida,1998,91.9
+1690,Georgia,1998,59.3
+1691,Hawaii,1998,8.2
+1692,Idaho,1998,8.3
+1693,Illinois,1998,58.8
+1694,Indiana,1998,43.5
+1695,Iowa,1998,19.1
+1696,Kansas,1998,18.6
+1697,Kentucky,1998,30.1
+1698,Louisiana,1998,55.3
+1699,Maine,1998,7.7
+1700,Maryland,1998,26.9
+1701,Massachusetts,1998,30.1
+1702,Michigan,1998,56.4
+1703,Minnesota,1998,31.5
+1704,Mississippi,1998,24.5
+1705,Missouri,1998,44.8
+1706,Montana,1998,7.0
+1707,Nebraska,1998,13.4
+1708,Nevada,1998,13.1
+1709,New Hampshire,1998,6.8
+1710,New Jersey,1998,60.7
+1711,New Mexico,1998,15.4
+1712,New York,1998,66.2
+1713,North Carolina,1998,47.1
+1714,North Dakota,1998,4.7
+1715,Ohio,1998,64.8
+1716,Oklahoma,1998,26.9
+1717,Oregon,1998,23.0
+1718,Pennsylvania,1998,67.5
+1719,Rhode Island,1998,4.5
+1720,South Carolina,1998,25.7
+1721,South Dakota,1998,5.5
+1722,Tennessee,1998,39.5
+1723,Texas,1998,179.9
+1724,Utah,1998,14.3
+1725,Vermont,1998,3.6
+1726,Virginia,1998,45.0
+1727,Washington,1998,43.0
+1728,West Virginia,1998,12.6
+1729,Wisconsin,1998,29.5
+1730,Wyoming,1998,7.1
+1731,,1998,
+1732,,1998,
+1733,,1998,
+1734,,1998,
+1735,,1998,
+1736,,1998,
+1737,,1998,
+1738,,1998,
+1739,,1998,
+1740,Alabama,1999,32.0
+1741,Alaska,1999,14.8
+1742,Arizona,1999,31.6
+1743,Arkansas,1999,20.8
+1744,California,1999,204.3
+1745,Colorado,1999,25.3
+1746,Connecticut,1999,16.7
+1747,Delaware,1999,4.9
+1748,District of Columbia,1999,1.7
+1749,Florida,1999,94.6
+1750,Georgia,1999,61.3
+1751,Hawaii,1999,8.9
+1752,Idaho,1999,8.7
+1753,Illinois,1999,65.0
+1754,Indiana,1999,44.4
+1755,Iowa,1999,18.9
+1756,Kansas,1999,19.7
+1757,Kentucky,1999,31.2
+1758,Louisiana,1999,55.2
+1759,Maine,1999,8.0
+1760,Maryland,1999,28.3
+1761,Massachusetts,1999,30.9
+1762,Michigan,1999,58.8
+1763,Minnesota,1999,33.6
+1764,Mississippi,1999,25.9
+1765,Missouri,1999,44.2
+1766,Montana,1999,7.3
+1767,Nebraska,1999,13.7
+1768,Nevada,1999,13.9
+1769,New Hampshire,1999,7.1
+1770,New Jersey,1999,60.6
+1771,New Mexico,1999,15.5
+1772,New York,1999,66.5
+1773,North Carolina,1999,48.1
+1774,North Dakota,1999,5.6
+1775,Ohio,1999,66.6
+1776,Oklahoma,1999,28.1
+1777,Oregon,1999,23.3
+1778,Pennsylvania,1999,68.1
+1779,Rhode Island,1999,4.6
+1780,South Carolina,1999,26.4
+1781,South Dakota,1999,5.7
+1782,Tennessee,1999,40.7
+1783,Texas,1999,178.4
+1784,Utah,1999,14.8
+1785,Vermont,1999,3.7
+1786,Virginia,1999,45.8
+1787,Washington,1999,43.8
+1788,West Virginia,1999,12.2
+1789,Wisconsin,1999,30.2
+1790,Wyoming,1999,8.1
+1791,,1999,
+1792,,1999,
+1793,,1999,
+1794,,1999,
+1795,,1999,
+1796,,1999,
+1797,,1999,
+1798,,1999,
+1799,,1999,
+1800,Alabama,2000,33.7
+1801,Alaska,2000,15.7
+1802,Arizona,2000,32.6
+1803,Arkansas,2000,21.0
+1804,California,2000,216.4
+1805,Colorado,2000,25.8
+1806,Connecticut,2000,16.3
+1807,Delaware,2000,5.1
+1808,District of Columbia,2000,1.8
+1809,Florida,2000,100.9
+1810,Georgia,2000,61.8
+1811,Hawaii,2000,9.0
+1812,Idaho,2000,8.8
+1813,Illinois,2000,67.2
+1814,Indiana,2000,46.7
+1815,Iowa,2000,18.8
+1816,Kansas,2000,18.8
+1817,Kentucky,2000,31.6
+1818,Louisiana,2000,61.2
+1819,Maine,2000,8.6
+1820,Maryland,2000,28.7
+1821,Massachusetts,2000,32.2
+1822,Michigan,2000,57.3
+1823,Minnesota,2000,35.1
+1824,Mississippi,2000,25.3
+1825,Missouri,2000,39.6
+1826,Montana,2000,7.5
+1827,Nebraska,2000,12.2
+1828,Nevada,2000,14.6
+1829,New Hampshire,2000,7.3
+1830,New Jersey,2000,65.1
+1831,New Mexico,2000,15.3
+1832,New York,2000,67.4
+1833,North Carolina,2000,50.2
+1834,North Dakota,2000,5.6
+1835,Ohio,2000,69.0
+1836,Oklahoma,2000,30.3
+1837,Oregon,2000,22.7
+1838,Pennsylvania,2000,70.7
+1839,Rhode Island,2000,4.7
+1840,South Carolina,2000,27.2
+1841,South Dakota,2000,5.8
+1842,Tennessee,2000,41.7
+1843,Texas,2000,183.6
+1844,Utah,2000,15.8
+1845,Vermont,2000,3.7
+1846,Virginia,2000,48.8
+1847,Washington,2000,44.9
+1848,West Virginia,2000,12.7
+1849,Wisconsin,2000,29.9
+1850,Wyoming,2000,7.6
+1851,,2000,
+1852,,2000,
+1853,,2000,
+1854,,2000,
+1855,,2000,
+1856,,2000,
+1857,,2000,
+1858,,2000,
+1859,,2000,
+1860,Alabama,2001,31.5
+1861,Alaska,2001,14.7
+1862,Arizona,2001,33.5
+1863,Arkansas,2001,19.8
+1864,California,2001,211.5
+1865,Colorado,2001,27.0
+1866,Connecticut,2001,16.9
+1867,Delaware,2001,4.7
+1868,District of Columbia,2001,1.7
+1869,Florida,2001,99.0
+1870,Georgia,2001,61.4
+1871,Hawaii,2001,9.5
+1872,Idaho,2001,8.6
+1873,Illinois,2001,64.6
+1874,Indiana,2001,42.5
+1875,Iowa,2001,18.6
+1876,Kansas,2001,17.4
+1877,Kentucky,2001,31.9
+1878,Louisiana,2001,53.5
+1879,Maine,2001,7.6
+1880,Maryland,2001,28.7
+1881,Massachusetts,2001,31.6
+1882,Michigan,2001,56.4
+1883,Minnesota,2001,34.1
+1884,Mississippi,2001,24.5
+1885,Missouri,2001,39.5
+1886,Montana,2001,7.6
+1887,Nebraska,2001,11.4
+1888,Nevada,2001,14.5
+1889,New Hampshire,2001,7.3
+1890,New Jersey,2001,63.0
+1891,New Mexico,2001,15.7
+1892,New York,2001,67.0
+1893,North Carolina,2001,49.1
+1894,North Dakota,2001,6.0
+1895,Ohio,2001,68.5
+1896,Oklahoma,2001,33.1
+1897,Oregon,2001,21.6
+1898,Pennsylvania,2001,70.3
+1899,Rhode Island,2001,4.7
+1900,South Carolina,2001,27.3
+1901,South Dakota,2001,5.7
+1902,Tennessee,2001,41.3
+1903,Texas,2001,190.8
+1904,Utah,2001,15.1
+1905,Vermont,2001,3.7
+1906,Virginia,2001,48.6
+1907,Washington,2001,42.8
+1908,West Virginia,2001,12.5
+1909,Wisconsin,2001,29.6
+1910,Wyoming,2001,7.8
+1911,,2001,
+1912,,2001,
+1913,,2001,
+1914,,2001,
+1915,,2001,
+1916,,2001,
+1917,,2001,
+1918,,2001,
+1919,,2001,
+1920,Alabama,2002,33.4
+1921,Alaska,2002,15.0
+1922,Arizona,2002,34.3
+1923,Arkansas,2002,20.4
+1924,California,2002,223.4
+1925,Colorado,2002,26.8
+1926,Connecticut,2002,16.8
+1927,Delaware,2002,4.9
+1928,District of Columbia,2002,1.6
+1929,Florida,2002,101.3
+1930,Georgia,2002,61.5
+1931,Hawaii,2002,10.1
+1932,Idaho,2002,8.7
+1933,Illinois,2002,62.5
+1934,Indiana,2002,45.8
+1935,Iowa,2002,19.2
+1936,Kansas,2002,17.8
+1937,Kentucky,2002,33.0
+1938,Louisiana,2002,54.9
+1939,Maine,2002,8.7
+1940,Maryland,2002,28.3
+1941,Massachusetts,2002,31.7
+1942,Michigan,2002,57.6
+1943,Minnesota,2002,34.7
+1944,Mississippi,2002,25.0
+1945,Missouri,2002,40.5
+1946,Montana,2002,7.6
+1947,Nebraska,2002,11.7
+1948,Nevada,2002,14.7
+1949,New Hampshire,2002,8.1
+1950,New Jersey,2002,63.8
+1951,New Mexico,2002,15.4
+1952,New York,2002,68.6
+1953,North Carolina,2002,49.7
+1954,North Dakota,2002,6.0
+1955,Ohio,2002,69.1
+1956,Oklahoma,2002,30.9
+1957,Oregon,2002,22.0
+1958,Pennsylvania,2002,70.6
+1959,Rhode Island,2002,4.6
+1960,South Carolina,2002,27.9
+1961,South Dakota,2002,6.3
+1962,Tennessee,2002,43.8
+1963,Texas,2002,197.4
+1964,Utah,2002,15.6
+1965,Vermont,2002,3.6
+1966,Virginia,2002,48.8
+1967,Washington,2002,41.5
+1968,West Virginia,2002,12.3
+1969,Wisconsin,2002,29.7
+1970,Wyoming,2002,7.7
+1971,,2002,
+1972,,2002,
+1973,,2002,
+1974,,2002,
+1975,,2002,
+1976,,2002,
+1977,,2002,
+1978,,2002,
+1979,,2002,
+1980,Alabama,2003,32.7
+1981,Alaska,2003,15.8
+1982,Arizona,2003,35.7
+1983,Arkansas,2003,20.5
+1984,California,2003,215.5
+1985,Colorado,2003,26.6
+1986,Connecticut,2003,17.6
+1987,Delaware,2003,4.9
+1988,District of Columbia,2003,1.6
+1989,Florida,2003,100.9
+1990,Georgia,2003,64.1
+1991,Hawaii,2003,11.8
+1992,Idaho,2003,8.4
+1993,Illinois,2003,66.0
+1994,Indiana,2003,47.8
+1995,Iowa,2003,19.6
+1996,Kansas,2003,19.7
+1997,Kentucky,2003,31.9
+1998,Louisiana,2003,54.9
+1999,Maine,2003,9.4
+2000,Maryland,2003,29.7
+2001,Massachusetts,2003,32.0
+2002,Michigan,2003,55.9
+2003,Minnesota,2003,35.1
+2004,Mississippi,2003,26.8
+2005,Missouri,2003,42.3
+2006,Montana,2003,7.3
+2007,Nebraska,2003,12.2
+2008,Nevada,2003,15.2
+2009,New Hampshire,2003,7.7
+2010,New Jersey,2003,62.8
+2011,New Mexico,2003,15.2
+2012,New York,2003,74.1
+2013,North Carolina,2003,51.1
+2014,North Dakota,2003,6.1
+2015,Ohio,2003,70.3
+2016,Oklahoma,2003,31.7
+2017,Oregon,2003,22.1
+2018,Pennsylvania,2003,70.1
+2019,Rhode Island,2003,4.6
+2020,South Carolina,2003,28.5
+2021,South Dakota,2003,5.9
+2022,Tennessee,2003,45.4
+2023,Texas,2003,192.3
+2024,Utah,2003,16.0
+2025,Vermont,2003,3.7
+2026,Virginia,2003,51.1
+2027,Washington,2003,41.9
+2028,West Virginia,2003,11.9
+2029,Wisconsin,2003,29.6
+2030,Wyoming,2003,8.6
+2031,,2003,
+2032,,2003,
+2033,,2003,
+2034,,2003,
+2035,,2003,
+2036,,2003,
+2037,,2003,
+2038,,2003,
+2039,,2003,
+2040,Alabama,2004,35.1
+2041,Alaska,2004,19.2
+2042,Arizona,2004,36.3
+2043,Arkansas,2004,20.7
+2044,California,2004,223.8
+2045,Colorado,2004,29.2
+2046,Connecticut,2004,19.3
+2047,Delaware,2004,4.9
+2048,District of Columbia,2004,1.7
+2049,Florida,2004,111.1
+2050,Georgia,2004,66.4
+2051,Hawaii,2004,12.5
+2052,Idaho,2004,8.7
+2053,Illinois,2004,69.2
+2054,Indiana,2004,45.2
+2055,Iowa,2004,20.5
+2056,Kansas,2004,19.0
+2057,Kentucky,2004,34.5
+2058,Louisiana,2004,53.7
+2059,Maine,2004,8.7
+2060,Maryland,2004,31.1
+2061,Massachusetts,2004,33.5
+2062,Michigan,2004,56.2
+2063,Minnesota,2004,36.0
+2064,Mississippi,2004,25.8
+2065,Missouri,2004,40.9
+2066,Montana,2004,7.8
+2067,Nebraska,2004,12.3
+2068,Nevada,2004,16.1
+2069,New Hampshire,2004,7.8
+2070,New Jersey,2004,64.7
+2071,New Mexico,2004,15.7
+2072,New York,2004,75.3
+2073,North Carolina,2004,52.3
+2074,North Dakota,2004,6.3
+2075,Ohio,2004,71.6
+2076,Oklahoma,2004,29.0
+2077,Oregon,2004,22.8
+2078,Pennsylvania,2004,71.4
+2079,Rhode Island,2004,4.4
+2080,South Carolina,2004,32.2
+2081,South Dakota,2004,6.0
+2082,Tennessee,2004,45.2
+2083,Texas,2004,193.6
+2084,Utah,2004,16.6
+2085,Vermont,2004,3.8
+2086,Virginia,2004,54.7
+2087,Washington,2004,43.3
+2088,West Virginia,2004,12.4
+2089,Wisconsin,2004,30.7
+2090,Wyoming,2004,8.1
+2091,,2004,
+2092,,2004,
+2093,,2004,
+2094,,2004,
+2095,,2004,
+2096,,2004,
+2097,,2004,
+2098,,2004,
+2099,,2004,
+2100,Alabama,2005,34.8
+2101,Alaska,2005,19.0
+2102,Arizona,2005,36.9
+2103,Arkansas,2005,20.6
+2104,California,2005,228.8
+2105,Colorado,2005,29.8
+2106,Connecticut,2005,18.3
+2107,Delaware,2005,5.1
+2108,District of Columbia,2005,1.4
+2109,Florida,2005,113.5
+2110,Georgia,2005,69.0
+2111,Hawaii,2005,12.8
+2112,Idaho,2005,8.7
+2113,Illinois,2005,76.6
+2114,Indiana,2005,45.3
+2115,Iowa,2005,21.1
+2116,Kansas,2005,17.8
+2117,Kentucky,2005,33.4
+2118,Louisiana,2005,50.9
+2119,Maine,2005,9.3
+2120,Maryland,2005,31.9
+2121,Massachusetts,2005,33.9
+2122,Michigan,2005,55.4
+2123,Minnesota,2005,36.4
+2124,Mississippi,2005,25.2
+2125,Missouri,2005,41.6
+2126,Montana,2005,8.3
+2127,Nebraska,2005,12.2
+2128,Nevada,2005,16.8
+2129,New Hampshire,2005,7.3
+2130,New Jersey,2005,69.2
+2131,New Mexico,2005,15.3
+2132,New York,2005,73.4
+2133,North Carolina,2005,53.4
+2134,North Dakota,2005,6.2
+2135,Ohio,2005,70.9
+2136,Oklahoma,2005,30.6
+2137,Oregon,2005,23.3
+2138,Pennsylvania,2005,72.5
+2139,Rhode Island,2005,4.3
+2140,South Carolina,2005,30.5
+2141,South Dakota,2005,6.1
+2142,Tennessee,2005,45.3
+2143,Texas,2005,194.4
+2144,Utah,2005,16.7
+2145,Vermont,2005,3.8
+2146,Virginia,2005,55.5
+2147,Washington,2005,43.4
+2148,West Virginia,2005,12.5
+2149,Wisconsin,2005,30.1
+2150,Wyoming,2005,8.3
+2151,,2005,
+2152,,2005,
+2153,,2005,
+2154,,2005,
+2155,,2005,
+2156,,2005,
+2157,,2005,
+2158,,2005,
+2159,,2005,
+2160,Alabama,2006,35.4
+2161,Alaska,2006,19.2
+2162,Arizona,2006,38.1
+2163,Arkansas,2006,20.6
+2164,California,2006,233.5
+2165,Colorado,2006,30.6
+2166,Connecticut,2006,17.5
+2167,Delaware,2006,5.2
+2168,District of Columbia,2006,1.2
+2169,Florida,2006,116.2
+2170,Georgia,2006,68.1
+2171,Hawaii,2006,13.0
+2172,Idaho,2006,9.3
+2173,Illinois,2006,73.0
+2174,Indiana,2006,46.3
+2175,Iowa,2006,21.7
+2176,Kansas,2006,18.9
+2177,Kentucky,2006,33.3
+2178,Louisiana,2006,54.9
+2179,Maine,2006,9.4
+2180,Maryland,2006,31.9
+2181,Massachusetts,2006,32.8
+2182,Michigan,2006,55.3
+2183,Minnesota,2006,36.0
+2184,Mississippi,2006,26.8
+2185,Missouri,2006,42.0
+2186,Montana,2006,8.5
+2187,Nebraska,2006,12.4
+2188,Nevada,2006,18.0
+2189,New Hampshire,2006,7.3
+2190,New Jersey,2006,68.6
+2191,New Mexico,2006,16.0
+2192,New York,2006,74.5
+2193,North Carolina,2006,52.9
+2194,North Dakota,2006,6.2
+2195,Ohio,2006,71.7
+2196,Oklahoma,2006,31.6
+2197,Oregon,2006,23.9
+2198,Pennsylvania,2006,72.1
+2199,Rhode Island,2006,4.4
+2200,South Carolina,2006,32.0
+2201,South Dakota,2006,6.1
+2202,Tennessee,2006,45.7
+2203,Texas,2006,202.0
+2204,Utah,2006,18.5
+2205,Vermont,2006,3.9
+2206,Virginia,2006,56.8
+2207,Washington,2006,44.7
+2208,West Virginia,2006,12.5
+2209,Wisconsin,2006,30.7
+2210,Wyoming,2006,8.6
+2211,,2006,
+2212,,2006,
+2213,,2006,
+2214,,2006,
+2215,,2006,
+2216,,2006,
+2217,,2006,
+2218,,2006,
+2219,,2006,
+2220,Alabama,2007,35.7
+2221,Alaska,2007,18.0
+2222,Arizona,2007,37.5
+2223,Arkansas,2007,20.9
+2224,California,2007,235.7
+2225,Colorado,2007,31.2
+2226,Connecticut,2007,17.4
+2227,Delaware,2007,5.2
+2228,District of Columbia,2007,1.2
+2229,Florida,2007,114.5
+2230,Georgia,2007,66.3
+2231,Hawaii,2007,14.0
+2232,Idaho,2007,9.5
+2233,Illinois,2007,72.8
+2234,Indiana,2007,45.0
+2235,Iowa,2007,22.0
+2236,Kansas,2007,19.3
+2237,Kentucky,2007,34.6
+2238,Louisiana,2007,50.4
+2239,Maine,2007,9.0
+2240,Maryland,2007,31.3
+2241,Massachusetts,2007,33.1
+2242,Michigan,2007,54.5
+2243,Minnesota,2007,36.0
+2244,Mississippi,2007,26.4
+2245,Missouri,2007,42.3
+2246,Montana,2007,8.9
+2247,Nebraska,2007,12.5
+2248,Nevada,2007,18.1
+2249,New Hampshire,2007,7.3
+2250,New Jersey,2007,71.9
+2251,New Mexico,2007,15.4
+2252,New York,2007,73.8
+2253,North Carolina,2007,54.2
+2254,North Dakota,2007,7.1
+2255,Ohio,2007,72.0
+2256,Oklahoma,2007,32.1
+2257,Oregon,2007,24.2
+2258,Pennsylvania,2007,71.3
+2259,Rhode Island,2007,4.3
+2260,South Carolina,2007,31.8
+2261,South Dakota,2007,6.3
+2262,Tennessee,2007,45.7
+2263,Texas,2007,203.3
+2264,Utah,2007,18.3
+2265,Vermont,2007,3.8
+2266,Virginia,2007,56.6
+2267,Washington,2007,47.5
+2268,West Virginia,2007,12.3
+2269,Wisconsin,2007,30.7
+2270,Wyoming,2007,8.8
+2271,,2007,
+2272,,2007,
+2273,,2007,
+2274,,2007,
+2275,,2007,
+2276,,2007,
+2277,,2007,
+2278,,2007,
+2279,,2007,
+2280,Alabama,2008,32.9
+2281,Alaska,2008,15.5
+2282,Arizona,2008,34.3
+2283,Arkansas,2008,20.1
+2284,California,2008,218.9
+2285,Colorado,2008,29.6
+2286,Connecticut,2008,16.4
+2287,Delaware,2008,4.9
+2288,District of Columbia,2008,1.0
+2289,Florida,2008,103.6
+2290,Georgia,2008,60.0
+2291,Hawaii,2008,9.6
+2292,Idaho,2008,8.6
+2293,Illinois,2008,68.4
+2294,Indiana,2008,41.5
+2295,Iowa,2008,21.1
+2296,Kansas,2008,18.7
+2297,Kentucky,2008,31.6
+2298,Louisiana,2008,47.3
+2299,Maine,2008,8.0
+2300,Maryland,2008,30.0
+2301,Massachusetts,2008,32.7
+2302,Michigan,2008,50.0
+2303,Minnesota,2008,33.9
+2304,Mississippi,2008,25.2
+2305,Missouri,2008,39.5
+2306,Montana,2008,8.2
+2307,Nebraska,2008,12.1
+2308,Nevada,2008,16.1
+2309,New Hampshire,2008,7.1
+2310,New Jersey,2008,72.4
+2311,New Mexico,2008,14.0
+2312,New York,2008,72.9
+2313,North Carolina,2008,52.2
+2314,North Dakota,2008,6.3
+2315,Ohio,2008,67.6
+2316,Oklahoma,2008,31.8
+2317,Oregon,2008,22.3
+2318,Pennsylvania,2008,66.0
+2319,Rhode Island,2008,4.1
+2320,South Carolina,2008,30.0
+2321,South Dakota,2008,5.9
+2322,Tennessee,2008,42.1
+2323,Texas,2008,194.9
+2324,Utah,2008,16.8
+2325,Vermont,2008,3.5
+2326,Virginia,2008,51.7
+2327,Washington,2008,42.2
+2328,West Virginia,2008,10.8
+2329,Wisconsin,2008,29.5
+2330,Wyoming,2008,8.6
+2331,,2008,
+2332,,2008,
+2333,,2008,
+2334,,2008,
+2335,,2008,
+2336,,2008,
+2337,,2008,
+2338,,2008,
+2339,,2008,
+2340,Alabama,2009,32.0
+2341,Alaska,2009,13.7
+2342,Arizona,2009,32.4
+2343,Arkansas,2009,19.9
+2344,California,2009,213.8
+2345,Colorado,2009,28.8
+2346,Connecticut,2009,16.0
+2347,Delaware,2009,4.7
+2348,District of Columbia,2009,1.1
+2349,Florida,2009,97.4
+2350,Georgia,2009,64.2
+2351,Hawaii,2009,9.3
+2352,Idaho,2009,8.5
+2353,Illinois,2009,67.0
+2354,Indiana,2009,40.0
+2355,Iowa,2009,20.7
+2356,Kansas,2009,19.4
+2357,Kentucky,2009,32.1
+2358,Louisiana,2009,46.6
+2359,Maine,2009,8.4
+2360,Maryland,2009,31.0
+2361,Massachusetts,2009,30.1
+2362,Michigan,2009,48.7
+2363,Minnesota,2009,31.6
+2364,Mississippi,2009,24.6
+2365,Missouri,2009,38.8
+2366,Montana,2009,7.8
+2367,Nebraska,2009,12.3
+2368,Nevada,2009,14.5
+2369,New Hampshire,2009,7.0
+2370,New Jersey,2009,61.2
+2371,New Mexico,2009,13.7
+2372,New York,2009,71.0
+2373,North Carolina,2009,47.9
+2374,North Dakota,2009,5.9
+2375,Ohio,2009,63.2
+2376,Oklahoma,2009,30.5
+2377,Oregon,2009,22.5
+2378,Pennsylvania,2009,65.1
+2379,Rhode Island,2009,4.2
+2380,South Carolina,2009,30.6
+2381,South Dakota,2009,6.2
+2382,Tennessee,2009,40.8
+2383,Texas,2009,187.2
+2384,Utah,2009,16.2
+2385,Vermont,2009,3.6
+2386,Virginia,2009,49.9
+2387,Washington,2009,41.5
+2388,West Virginia,2009,11.1
+2389,Wisconsin,2009,28.8
+2390,Wyoming,2009,8.2
+2391,,2009,
+2392,,2009,
+2393,,2009,
+2394,,2009,
+2395,,2009,
+2396,,2009,
+2397,,2009,
+2398,,2009,
+2399,,2009,
+2400,Alabama,2010,32.3
+2401,Alaska,2010,13.9
+2402,Arizona,2010,35.3
+2403,Arkansas,2010,19.8
+2404,California,2010,201.0
+2405,Colorado,2010,29.2
+2406,Connecticut,2010,15.9
+2407,Delaware,2010,5.5
+2408,District of Columbia,2010,1.0
+2409,Florida,2010,107.0
+2410,Georgia,2010,68.3
+2411,Hawaii,2010,11.1
+2412,Idaho,2010,9.5
+2413,Illinois,2010,66.8
+2414,Indiana,2010,40.5
+2415,Iowa,2010,20.8
+2416,Kansas,2010,18.7
+2417,Kentucky,2010,32.3
+2418,Louisiana,2010,42.1
+2419,Maine,2010,8.1
+2420,Maryland,2010,30.7
+2421,Massachusetts,2010,30.7
+2422,Michigan,2010,50.5
+2423,Minnesota,2010,31.1
+2424,Mississippi,2010,22.6
+2425,Missouri,2010,39.6
+2426,Montana,2010,8.1
+2427,Nebraska,2010,14.4
+2428,Nevada,2010,17.6
+2429,New Hampshire,2010,7.1
+2430,New Jersey,2010,53.6
+2431,New Mexico,2010,13.4
+2432,New York,2010,81.3
+2433,North Carolina,2010,52.3
+2434,North Dakota,2010,6.7
+2435,Ohio,2010,61.3
+2436,Oklahoma,2010,31.3
+2437,Oregon,2010,22.0
+2438,Pennsylvania,2010,64.4
+2439,Rhode Island,2010,4.2
+2440,South Carolina,2010,31.5
+2441,South Dakota,2010,6.4
+2442,Tennessee,2010,42.4
+2443,Texas,2010,184.4
+2444,Utah,2010,15.7
+2445,Vermont,2010,3.4
+2446,Virginia,2010,52.3
+2447,Washington,2010,38.6
+2448,West Virginia,2010,11.4
+2449,Wisconsin,2010,29.5
+2450,Wyoming,2010,8.3
+2451,,2010,
+2452,,2010,
+2453,,2010,
+2454,,2010,
+2455,,2010,
+2456,,2010,
+2457,,2010,
+2458,,2010,
+2459,,2010,
+2460,Alabama,2011,32.3
+2461,Alaska,2011,13.3
+2462,Arizona,2011,35.1
+2463,Arkansas,2011,19.6
+2464,California,2011,193.4
+2465,Colorado,2011,28.5
+2466,Connecticut,2011,15.7
+2467,Delaware,2011,5.0
+2468,District of Columbia,2011,1.1
+2469,Florida,2011,105.4
+2470,Georgia,2011,66.9
+2471,Hawaii,2011,11.4
+2472,Idaho,2011,9.1
+2473,Illinois,2011,66.3
+2474,Indiana,2011,39.9
+2475,Iowa,2011,21.0
+2476,Kansas,2011,18.1
+2477,Kentucky,2011,32.1
+2478,Louisiana,2011,43.1
+2479,Maine,2011,8.1
+2480,Maryland,2011,29.9
+2481,Massachusetts,2011,30.7
+2482,Michigan,2011,49.5
+2483,Minnesota,2011,30.6
+2484,Mississippi,2011,21.9
+2485,Missouri,2011,38.7
+2486,Montana,2011,8.2
+2487,Nebraska,2011,13.9
+2488,Nevada,2011,17.2
+2489,New Hampshire,2011,6.9
+2490,New Jersey,2011,53.9
+2491,New Mexico,2011,13.8
+2492,New York,2011,76.1
+2493,North Carolina,2011,50.8
+2494,North Dakota,2011,7.8
+2495,Ohio,2011,60.4
+2496,Oklahoma,2011,30.5
+2497,Oregon,2011,21.0
+2498,Pennsylvania,2011,64.1
+2499,Rhode Island,2011,4.0
+2500,South Carolina,2011,30.9
+2501,South Dakota,2011,6.4
+2502,Tennessee,2011,42.1
+2503,Texas,2011,184.8
+2504,Utah,2011,16.7
+2505,Vermont,2011,3.3
+2506,Virginia,2011,50.2
+2507,Washington,2011,39.7
+2508,West Virginia,2011,11.0
+2509,Wisconsin,2011,28.6
+2510,Wyoming,2011,7.6
+2511,,2011,
+2512,,2011,
+2513,,2011,
+2514,,2011,
+2515,,2011,
+2516,,2011,
+2517,,2011,
+2518,,2011,
+2519,,2011,
+2520,Alabama,2012,31.9
+2521,Alaska,2012,12.1
+2522,Arizona,2012,34.4
+2523,Arkansas,2012,19.0
+2524,California,2012,189.6
+2525,Colorado,2012,28.2
+2526,Connecticut,2012,15.3
+2527,Delaware,2012,4.9
+2528,District of Columbia,2012,1.0
+2529,Florida,2012,103.4
+2530,Georgia,2012,62.6
+2531,Hawaii,2012,11.4
+2532,Idaho,2012,9.1
+2533,Illinois,2012,63.9
+2534,Indiana,2012,39.0
+2535,Iowa,2012,19.9
+2536,Kansas,2012,18.1
+2537,Kentucky,2012,31.0
+2538,Louisiana,2012,39.0
+2539,Maine,2012,7.7
+2540,Maryland,2012,29.8
+2541,Massachusetts,2012,30.1
+2542,Michigan,2012,48.6
+2543,Minnesota,2012,31.1
+2544,Mississippi,2012,23.4
+2545,Missouri,2012,37.4
+2546,Montana,2012,7.9
+2547,Nebraska,2012,13.4
+2548,Nevada,2012,17.2
+2549,New Hampshire,2012,6.7
+2550,New Jersey,2012,51.3
+2551,New Mexico,2012,13.8
+2552,New York,2012,74.4
+2553,North Carolina,2012,49.2
+2554,North Dakota,2012,8.9
+2555,Ohio,2012,58.3
+2556,Oklahoma,2012,30.6
+2557,Oregon,2012,20.7
+2558,Pennsylvania,2012,63.2
+2559,Rhode Island,2012,3.8
+2560,South Carolina,2012,29.8
+2561,South Dakota,2012,6.7
+2562,Tennessee,2012,40.6
+2563,Texas,2012,184.6
+2564,Utah,2012,16.1
+2565,Vermont,2012,3.2
+2566,Virginia,2012,50.6
+2567,Washington,2012,39.8
+2568,West Virginia,2012,11.4
+2569,Wisconsin,2012,28.5
+2570,Wyoming,2012,8.0
+2571,,2012,
+2572,,2012,
+2573,,2012,
+2574,,2012,
+2575,,2012,
+2576,,2012,
+2577,,2012,
+2578,,2012,
+2579,,2012,
+2580,Alabama,2013,31.4
+2581,Alaska,2013,11.0
+2582,Arizona,2013,34.8
+2583,Arkansas,2013,18.8
+2584,California,2013,189.0
+2585,Colorado,2013,28.1
+2586,Connecticut,2013,15.0
+2587,Delaware,2013,4.6
+2588,District of Columbia,2013,1.0
+2589,Florida,2013,104.9
+2590,Georgia,2013,64.1
+2591,Hawaii,2013,11.7
+2592,Idaho,2013,9.4
+2593,Illinois,2013,65.0
+2594,Indiana,2013,40.8
+2595,Iowa,2013,20.2
+2596,Kansas,2013,19.2
+2597,Kentucky,2013,30.9
+2598,Louisiana,2013,37.9
+2599,Maine,2013,8.6
+2600,Maryland,2013,29.9
+2601,Massachusetts,2013,31.3
+2602,Michigan,2013,50.6
+2603,Minnesota,2013,31.3
+2604,Mississippi,2013,21.4
+2605,Missouri,2013,37.7
+2606,Montana,2013,8.1
+2607,Nebraska,2013,13.4
+2608,Nevada,2013,17.5
+2609,New Hampshire,2013,6.8
+2610,New Jersey,2013,51.5
+2611,New Mexico,2013,13.9
+2612,New York,2013,75.1
+2613,North Carolina,2013,50.6
+2614,North Dakota,2013,9.3
+2615,Ohio,2013,59.1
+2616,Oklahoma,2013,30.2
+2617,Oregon,2013,20.8
+2618,Pennsylvania,2013,63.0
+2619,Rhode Island,2013,3.8
+2620,South Carolina,2013,30.9
+2621,South Dakota,2013,6.5
+2622,Tennessee,2013,40.8
+2623,Texas,2013,199.8
+2624,Utah,2013,16.4
+2625,Vermont,2013,3.3
+2626,Virginia,2013,50.6
+2627,Washington,2013,40.5
+2628,West Virginia,2013,11.1
+2629,Wisconsin,2013,28.2
+2630,Wyoming,2013,7.7
+2631,,2013,
+2632,,2013,
+2633,,2013,
+2634,,2013,
+2635,,2013,
+2636,,2013,
+2637,,2013,
+2638,,2013,
+2639,,2013,
+2640,Alabama,2014,31.3
+2641,Alaska,2014,11.0
+2642,Arizona,2014,35.1
+2643,Arkansas,2014,19.0
+2644,California,2014,189.9
+2645,Colorado,2014,29.0
+2646,Connecticut,2014,15.0
+2647,Delaware,2014,4.6
+2648,District of Columbia,2014,1.1
+2649,Florida,2014,106.3
+2650,Georgia,2014,61.9
+2651,Hawaii,2014,11.1
+2652,Idaho,2014,9.6
+2653,Illinois,2014,66.7
+2654,Indiana,2014,41.7
+2655,Iowa,2014,20.9
+2656,Kansas,2014,20.6
+2657,Kentucky,2014,31.4
+2658,Louisiana,2014,36.0
+2659,Maine,2014,8.6
+2660,Maryland,2014,29.6
+2661,Massachusetts,2014,30.0
+2662,Michigan,2014,50.0
+2663,Minnesota,2014,31.4
+2664,Mississippi,2014,21.7
+2665,Missouri,2014,38.1
+2666,Montana,2014,7.8
+2667,Nebraska,2014,13.9
+2668,Nevada,2014,17.5
+2669,New Hampshire,2014,6.9
+2670,New Jersey,2014,50.3
+2671,New Mexico,2014,14.4
+2672,New York,2014,79.2
+2673,North Carolina,2014,51.5
+2674,North Dakota,2014,9.9
+2675,Ohio,2014,60.5
+2676,Oklahoma,2014,32.6
+2677,Oregon,2014,20.9
+2678,Pennsylvania,2014,62.8
+2679,Rhode Island,2014,4.0
+2680,South Carolina,2014,30.3
+2681,South Dakota,2014,6.7
+2682,Tennessee,2014,41.8
+2683,Texas,2014,201.5
+2684,Utah,2014,16.5
+2685,Vermont,2014,3.3
+2686,Virginia,2014,52.3
+2687,Washington,2014,39.5
+2688,West Virginia,2014,11.1
+2689,Wisconsin,2014,30.2
+2690,Wyoming,2014,8.1
+2691,,2014,
+2692,,2014,
+2693,,2014,
+2694,,2014,
+2695,,2014,
+2696,,2014,
+2697,,2014,
+2698,,2014,
+2699,,2014,
+2700,Alabama,2015,32.3
+2701,Alaska,2015,11.7
+2702,Arizona,2015,35.7
+2703,Arkansas,2015,18.8
+2704,California,2015,194.8
+2705,Colorado,2015,28.6
+2706,Connecticut,2015,15.1
+2707,Delaware,2015,4.9
+2708,District of Columbia,2015,1.1
+2709,Florida,2015,110.2
+2710,Georgia,2015,65.1
+2711,Hawaii,2015,11.4
+2712,Idaho,2015,10.5
+2713,Illinois,2015,69.5
+2714,Indiana,2015,41.9
+2715,Iowa,2015,20.2
+2716,Kansas,2015,18.9
+2717,Kentucky,2015,31.8
+2718,Louisiana,2015,36.7
+2719,Maine,2015,8.7
+2720,Maryland,2015,30.3
+2721,Massachusetts,2015,31.0
+2722,Michigan,2015,51.7
+2723,Minnesota,2015,31.4
+2724,Mississippi,2015,22.7
+2725,Missouri,2015,38.0
+2726,Montana,2015,7.6
+2727,Nebraska,2015,13.8
+2728,Nevada,2015,17.6
+2729,New Hampshire,2015,6.8
+2730,New Jersey,2015,50.3
+2731,New Mexico,2015,14.5
+2732,New York,2015,77.6
+2733,North Carolina,2015,52.5
+2734,North Dakota,2015,9.2
+2735,Ohio,2015,60.7
+2736,Oklahoma,2015,31.8
+2737,Oregon,2015,20.4
+2738,Pennsylvania,2015,61.3
+2739,Rhode Island,2015,4.0
+2740,South Carolina,2015,31.9
+2741,South Dakota,2015,6.9
+2742,Tennessee,2015,42.4
+2743,Texas,2015,205.4
+2744,Utah,2015,16.9
+2745,Vermont,2015,3.3
+2746,Virginia,2015,51.9
+2747,Washington,2015,42.0
+2748,West Virginia,2015,11.4
+2749,Wisconsin,2015,29.8
+2750,Wyoming,2015,7.6
+2751,,2015,
+2752,,2015,
+2753,,2015,
+2754,,2015,
+2755,,2015,
+2756,,2015,
+2757,,2015,
+2758,,2015,
+2759,,2015,
+2760,Alabama,2016,34.0
+2761,Alaska,2016,11.1
+2762,Arizona,2016,36.6
+2763,Arkansas,2016,19.2
+2764,California,2016,202.3
+2765,Colorado,2016,29.1
+2766,Connecticut,2016,15.2
+2767,Delaware,2016,5.1
+2768,District of Columbia,2016,1.1
+2769,Florida,2016,112.6
+2770,Georgia,2016,62.4
+2771,Hawaii,2016,11.5
+2772,Idaho,2016,10.8
+2773,Illinois,2016,69.4
+2774,Indiana,2016,41.7
+2775,Iowa,2016,21.3
+2776,Kansas,2016,18.6
+2777,Kentucky,2016,31.9
+2778,Louisiana,2016,38.1
+2779,Maine,2016,8.6
+2780,Maryland,2016,29.6
+2781,Massachusetts,2016,31.8
+2782,Michigan,2016,52.4
+2783,Minnesota,2016,33.1
+2784,Mississippi,2016,23.2
+2785,Missouri,2016,38.8
+2786,Montana,2016,7.9
+2787,Nebraska,2016,13.7
+2788,Nevada,2016,18.4
+2789,New Hampshire,2016,6.8
+2790,New Jersey,2016,52.6
+2791,New Mexico,2016,14.2
+2792,New York,2016,80.8
+2793,North Carolina,2016,53.8
+2794,North Dakota,2016,8.2
+2795,Ohio,2016,60.3
+2796,Oklahoma,2016,31.7
+2797,Oregon,2016,20.4
+2798,Pennsylvania,2016,60.3
+2799,Rhode Island,2016,3.8
+2800,South Carolina,2016,32.8
+2801,South Dakota,2016,6.8
+2802,Tennessee,2016,43.3
+2803,Texas,2016,211.5
+2804,Utah,2016,17.3
+2805,Vermont,2016,3.3
+2806,Virginia,2016,53.6
+2807,Washington,2016,47.2
+2808,West Virginia,2016,12.2
+2809,Wisconsin,2016,29.6
+2810,Wyoming,2016,7.7
+2811,,2016,
+2812,,2016,
+2813,,2016,
+2814,,2016,
+2815,,2016,
+2816,,2016,
+2817,,2016,
+2818,,2016,
+2819,,2016,
+2820,Alabama,2017,33.7
+2821,Alaska,2017,11.2
+2822,Arizona,2017,36.9
+2823,Arkansas,2017,19.4
+2824,California,2017,208.0
+2825,Colorado,2017,29.5
+2826,Connecticut,2017,15.4
+2827,Delaware,2017,5.4
+2828,District of Columbia,2017,1.0
+2829,Florida,2017,115.2
+2830,Georgia,2017,66.1
+2831,Hawaii,2017,12.0
+2832,Idaho,2017,11.0
+2833,Illinois,2017,69.8
+2834,Indiana,2017,39.9
+2835,Iowa,2017,20.4
+2836,Kansas,2017,18.1
+2837,Kentucky,2017,32.5
+2838,Louisiana,2017,41.2
+2839,Maine,2017,8.3
+2840,Maryland,2017,29.5
+2841,Massachusetts,2017,31.4
+2842,Michigan,2017,51.5
+2843,Minnesota,2017,33.2
+2844,Mississippi,2017,22.8
+2845,Missouri,2017,38.5
+2846,Montana,2017,8.1
+2847,Nebraska,2017,13.8
+2848,Nevada,2017,19.1
+2849,New Hampshire,2017,6.8
+2850,New Jersey,2017,50.1
+2851,New Mexico,2017,15.2
+2852,New York,2017,81.5
+2853,North Carolina,2017,54.4
+2854,North Dakota,2017,8.8
+2855,Ohio,2017,60.7
+2856,Oklahoma,2017,32.4
+2857,Oregon,2017,21.0
+2858,Pennsylvania,2017,60.8
+2859,Rhode Island,2017,3.8
+2860,South Carolina,2017,33.4
+2861,South Dakota,2017,6.8
+2862,Tennessee,2017,43.7
+2863,Texas,2017,213.7
+2864,Utah,2017,17.6
+2865,Vermont,2017,3.2
+2866,Virginia,2017,54.1
+2867,Washington,2017,45.4
+2868,West Virginia,2017,11.5
+2869,Wisconsin,2017,29.2
+2870,Wyoming,2017,7.7
+2871,,2017,
+2872,,2017,
+2873,,2017,
+2874,,2017,
+2875,,2017,
+2876,,2017,
+2877,,2017,
+2878,,2017,
+2879,,2017,
+2880,Alabama,2018,32.9
+2881,Alaska,2018,11.8
+2882,Arizona,2018,37.6
+2883,Arkansas,2018,19.6
+2884,California,2018,209.1
+2885,Colorado,2018,30.5
+2886,Connecticut,2018,15.8
+2887,Delaware,2018,5.6
+2888,District of Columbia,2018,1.1
+2889,Florida,2018,121.1
+2890,Georgia,2018,64.1
+2891,Hawaii,2018,12.2
+2892,Idaho,2018,11.2
+2893,Illinois,2018,69.9
+2894,Indiana,2018,39.2
+2895,Iowa,2018,20.6
+2896,Kansas,2018,19.1
+2897,Kentucky,2018,34.1
+2898,Louisiana,2018,38.0
+2899,Maine,2018,7.3
+2900,Maryland,2018,30.5
+2901,Massachusetts,2018,31.9
+2902,Michigan,2018,53.2
+2903,Minnesota,2018,33.4
+2904,Mississippi,2018,22.9
+2905,Missouri,2018,38.5
+2906,Montana,2018,8.1
+2907,Nebraska,2018,14.4
+2908,Nevada,2018,19.1
+2909,New Hampshire,2018,6.9
+2910,New Jersey,2018,52.1
+2911,New Mexico,2018,15.7
+2912,New York,2018,82.0
+2913,North Carolina,2018,55.2
+2914,North Dakota,2018,9.3
+2915,Ohio,2018,61.2
+2916,Oklahoma,2018,32.9
+2917,Oregon,2018,21.6
+2918,Pennsylvania,2018,60.8
+2919,Rhode Island,2018,4.0
+2920,South Carolina,2018,33.3
+2921,South Dakota,2018,6.8
+2922,Tennessee,2018,44.3
+2923,Texas,2018,221.0
+2924,Utah,2018,18.8
+2925,Vermont,2018,3.0
+2926,Virginia,2018,55.2
+2927,Washington,2018,45.2
+2928,West Virginia,2018,13.0
+2929,Wisconsin,2018,31.0
+2930,Wyoming,2018,7.9
+2931,,2018,
+2932,,2018,
+2933,,2018,
+2934,,2018,
+2935,,2018,
+2936,,2018,
+2937,,2018,
+2938,,2018,
+2939,,2018,
+2940,Alabama,2019,33.8
+2941,Alaska,2019,11.9
+2942,Arizona,2019,38.7
+2943,Arkansas,2019,19.7
+2944,California,2019,208.9
+2945,Colorado,2019,31.2
+2946,Connecticut,2019,15.5
+2947,Delaware,2019,5.8
+2948,District of Columbia,2019,1.2
+2949,Florida,2019,119.1
+2950,Georgia,2019,63.8
+2951,Hawaii,2019,12.3
+2952,Idaho,2019,11.5
+2953,Illinois,2019,67.8
+2954,Indiana,2019,39.1
+2955,Iowa,2019,20.6
+2956,Kansas,2019,19.5
+2957,Kentucky,2019,34.1
+2958,Louisiana,2019,40.4
+2959,Maine,2019,7.2
+2960,Maryland,2019,30.7
+2961,Massachusetts,2019,32.0
+2962,Michigan,2019,52.4
+2963,Minnesota,2019,33.7
+2964,Mississippi,2019,23.5
+2965,Missouri,2019,38.7
+2966,Montana,2019,8.0
+2967,Nebraska,2019,14.4
+2968,Nevada,2019,19.1
+2969,New Hampshire,2019,6.9
+2970,New Jersey,2019,48.6
+2971,New Mexico,2019,15.9
+2972,New York,2019,79.8
+2973,North Carolina,2019,56.3
+2974,North Dakota,2019,9.7
+2975,Ohio,2019,60.7
+2976,Oklahoma,2019,32.0
+2977,Oregon,2019,21.3
+2978,Pennsylvania,2019,61.7
+2979,Rhode Island,2019,3.9
+2980,South Carolina,2019,32.8
+2981,South Dakota,2019,6.8
+2982,Tennessee,2019,45.6
+2983,Texas,2019,227.9
+2984,Utah,2019,18.5
+2985,Vermont,2019,3.1
+2986,Virginia,2019,56.1
+2987,Washington,2019,46.6
+2988,West Virginia,2019,12.3
+2989,Wisconsin,2019,30.7
+2990,Wyoming,2019,8.0
+2991,,2019,
+2992,,2019,
+2993,,2019,
+2994,,2019,
+2995,,2019,
+2996,,2019,
+2997,,2019,
+2998,,2019,
+2999,,2019,
+3000,Alabama,2020,33.6
+3001,Alaska,2020,11.9
+3002,Arizona,2020,34.4
+3003,Arkansas,2020,18.6
+3004,California,2020,160.4
+3005,Colorado,2020,25.6
+3006,Connecticut,2020,13.0
+3007,Delaware,2020,4.9
+3008,District of Columbia,2020,0.9
+3009,Florida,2020,96.3
+3010,Georgia,2020,56.1
+3011,Hawaii,2020,7.6
+3012,Idaho,2020,10.8
+3013,Illinois,2020,54.6
+3014,Indiana,2020,35.9
+3015,Iowa,2020,18.9
+3016,Kansas,2020,17.5
+3017,Kentucky,2020,31.8
+3018,Louisiana,2020,39.1
+3019,Maine,2020,6.6
+3020,Maryland,2020,25.5
+3021,Massachusetts,2020,24.0
+3022,Michigan,2020,43.6
+3023,Minnesota,2020,27.1
+3024,Mississippi,2020,22.4
+3025,Missouri,2020,34.9
+3026,Montana,2020,8.0
+3027,Nebraska,2020,13.2
+3028,Nevada,2020,15.5
+3029,New Hampshire,2020,6.0
+3030,New Jersey,2020,39.1
+3031,New Mexico,2020,14.9
+3032,New York,2020,60.1
+3033,North Carolina,2020,50.1
+3034,North Dakota,2020,8.5
+3035,Ohio,2020,55.0
+3036,Oklahoma,2020,28.8
+3037,Oregon,2020,19.1
+3038,Pennsylvania,2020,52.6
+3039,Rhode Island,2020,3.3
+3040,South Carolina,2020,29.5
+3041,South Dakota,2020,6.6
+3042,Tennessee,2020,41.9
+3043,Texas,2020,192.7
+3044,Utah,2020,17.2
+3045,Vermont,2020,2.6
+3046,Virginia,2020,47.1
+3047,Washington,2020,34.6
+3048,West Virginia,2020,11.2
+3049,Wisconsin,2020,27.4
+3050,Wyoming,2020,7.3
+3051,,2020,
+3052,,2020,
+3053,,2020,
+3054,,2020,
+3055,,2020,
+3056,,2020,
+3057,,2020,
+3058,,2020,
+3059,,2020,

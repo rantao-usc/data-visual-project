@@ -29,6 +29,10 @@
 				<span class="material-icons">map</span>
 				<span class="text">CO2 Emissions</span>
 			</RouterLink>
+			<RouterLink to="/Piechart" class="button">
+				<span class="material-icons">pie_chart</span>
+				<span class="text">CO2 Emissions by Sector</span>
+			</RouterLink>
 			<!-- <RouterLink to="/d3chartcomp" class="button">
 				<span class="material-icons">pie_chart</span>
 				<span class="text">Pie Chart</span>

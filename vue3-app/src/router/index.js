@@ -26,9 +26,9 @@ const router = createRouter({
       component: () => import('../views/ChloroplethMap.vue')
     },
     {
-      path: '/d3barchart',
-      name: 'd3barchart',
-      component: () => import('../views/D3BarchartView.vue')
+      path: '/Piechart',
+      name: 'Piechart',
+      component: () => import('../views/PieChart.vue')
     },
     {
       path: '/d3chartcomp',

@@ -1,10 +1,14 @@
 <template>
+  <body>
     <div id="chloropethChart">
-      <h1 class="mt-3">CO2 emission per State</h1>
+      <h1 class="mt-3">U.S. Transportation CO2 Emissions</h1>
   
-      <div class="title">The graph shown below is a chloropleth map, Write something here about the map</div>
-        <svg width="990" height="600" id="choropleth-co2"></svg>
+      <div class="info_chloro">The graph shown below is a chloropleth map, which shows the transportation CO2 emissions for the years 1970 to 2020.</div>
+      <h2 class="year"></h2>
+      <div class="slider"></div>
+      <svg width="990" height="600" id="choropleth-co2"></svg>
     </div>
+  </body>
   </template>
   
   <script>
@@ -18,7 +22,7 @@
 
         var promises = [];
         var states_file = 'maps_data/states-albers-10m.json';
-        var co2_file = 'maps_data/CO2_emissions_per_cap_2020.csv';
+        var co2_file = 'maps_data/transportation_co2_unpivoted.csv';
 
         promises.push(d3.json(states_file));
         promises.push(d3.csv(co2_file));
@@ -29,50 +33,142 @@
     });
     },
     methods: {
+
+
+
     chloropethChart(){
+
+  // Choropleth implementation 
+  var margin = { top: 20, right: 20, bottom: 20, left: 20 };
+  var width = 1000 - margin.left - margin.right,
+  height = 800 - margin.top - margin.bottom,
+  formatPercent = d3.format(".1%");
+
+  var svg = d3.select("#choropleth-co2")
+  .append("svg")
+  .attr("width", width + margin.left + margin.right)
+  .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+// Create tooltip
+var tooltip = d3.select("body")
+  .append("div")
+  .attr("class", "tooltip")
+  .style("opacity", 0);
+
+
+// CO2 per capita --> min: 3.5, max: 131.2
+// CO2 raw --> min: 2.4, max: 684.7
+// CO2 transportation --> min: 0.9, max: 235.7
+
+var color = d3.scaleQuantize([0.9, 235.7], d3.schemeBlues[9])  // Changed to 8 shades for our data
+
+
+svg.append("g")
+  .attr("transform", "translate(610,20)")
+  .append(() => this.legend({ color, title: 'CO2 Emissions (millions of metric tons)', width: 260, tickFormat: d3.format(".1f") }));
 
     var us = this.values[0];
     this.us = us
     var data = this.values[1];
     this.data = data
 
-    var states;
-    states = new Map(us.objects.states.geometries.map(d => [d.id, d.properties]));
+      // Geometries associated with states
+  var states = topojson.feature(us, us.objects.states);
 
-    var format = d => `${d}`
 
+    // Cast data as correct data types
+    this.data.forEach(function (d) {
+      d.state = d.state
+      d.year = +d.year
+      d.emissions = +d.emissions
+    })
+
+
+    // Group by state and year
+    var dataByStateByYear = d3.group(this.data, d => d.state, d => d.year)
+
+    // Add a property corresponding to each states data for all years
+    states.features.forEach(function (state) {
+      state.properties.years = dataByStateByYear.get(state.properties.name)
+    });
+
+
+    // Path -- already in geoAlbers()
     var path = d3.geoPath()
 
-    var color = d3.scaleQuantize([0, 100], d3.schemeBlues[8])  // Changed to 8 shades for our data
+    // Draw map
+    var stateShapes = svg.selectAll(".state")
+      .data(states.features)
+      .enter()
+      .append('path')
+      .attr('class', 'state')
+      .attr('d', path)
 
-    data = Object.assign(new Map(data.map((d) => [d.State, +d.Emissions])));  // CO2 emissions per capita for each state
-    data.title = "CO2 Emissions (per capita)"
-    path = d3.geoPath()
 
-    var svg = d3.select("#choropleth-co2")
-      .attr("viewBox", [0, 0, 975, 610]);
+    // Tooltip functionality
+    stateShapes
+      .on("mouseover", function (d) {
+        tooltip.transition()
+          .duration(250)
+          .style("opacity", 1);
 
-    svg.append("g")
-      .attr("transform", "translate(610,20)")
-      .append(() => this.legend({ color, title: data.title, width: 260 }));
 
-    svg.append("g")
-      .selectAll("path")
-      .data(topojson.feature(us, us.objects.states).features)
-      .join("path")
-      .attr("stroke", "grey")
-      .attr("fill", d => color(data.get(d.properties.name)))
-      .attr("d", path)
-      .append("title")
-      .text(d => `${d.properties.name}, ${format(data.get(d.properties.name).toFixed(1))}`);
+        tooltip.html(
+          "<p><strong>" + d.path[0].__data__.properties.years.get(1970)[0].state + "</strong></p>" +
+          "<table><tbody><tr><td class='wide'>Transportation CO2 Emissions in 1970:&nbsp</td> <td>" + d.path[0].__data__.properties.years.get(1970)[0].emissions + "</td></tr>" +
+          "<tr><td>Transportation CO2 Emissions in 2020:&nbsp</td><td>" + d.path[0].__data__.properties.years.get(2020)[0].emissions + "</td></tr>" +
+          "<tr><td>Change:</td><td>" + formatPercent((d.path[0].__data__.properties.years.get(2020)[0].emissions - d.path[0].__data__.properties.years.get(1970)[0].emissions) / 100) + "</td></tr></tbody></table>"
+        )
+          .style("left", (d.pageX + 50) + "px")
+          .style("top", (d.pageY - 20) + "px");
+            })
+        .on("mouseout", function (d) {
+          tooltip.transition()
+            .duration(250)
+            .style("opacity", 0);
+        });
 
-    svg.append("path")
-      .datum(topojson.mesh(us, us.objects.states, (a, b) => a !== b))
-      .attr("fill", "none")
-      .attr("stroke", "grey")
-      .attr("stroke-linejoin", "round")
-      .attr("d", path);
-    
+
+      // Draw state boundaries
+      svg.append("path")
+        .datum(topojson.mesh(us, us.objects.states, (a, b) => a !== b))
+        .attr("fill", "none")
+        .attr("stroke", "white")
+        .attr("stroke-linejoin", "round")
+        .attr("d", path);
+
+
+      // Update choropleth based on year selected by slider
+      function update(year) {
+        slider.property("value", year);
+        d3.select(".year").text(year);
+        stateShapes.style("fill", function (d) {
+
+          return color(d.properties.years.get(year)[0].emissions)
+
+        });
+      }
+
+    // Slider implementation
+    var slider = d3.select(".slider")
+      .append("input")
+      .attr("type", "range")
+      .attr("min", 1970)
+      .attr("max", 2020)
+      .attr("step", 1)
+      .style('width', '300px')
+      .on("input", function () {
+        var year = +this.value;  // make sure is a number as thats what it is expecting
+
+        console.log(year)
+        update(year);
+      });
+
+    // Initialize chart to be 1970
+    update(1970);
     },
     legend({
         color,
@@ -188,20 +284,31 @@
   <!-- "scoped" attribute limits CSS to this component only -->
   <style scoped>
   
-  /* body {
-      margin: 20px 25px 25px 25px;
+  #chloropethChart {
+      margin: 0px 25px 25px 25px;
       padding: 10px
-  } */
-  
-  /* #bar-chart {
-    display: block;
-    margin: auto;
-  } */
-  
-  /* #multi-line {
-    display: block;
-    margin: auto;
-  } */
+  }
+
+  .info_chloro{
+    margin-bottom: 20px;
+  }
+  input {
+            display: block;
+            width: 200px;
+            margin: 10px 0px 0px 0px;
+        }
+  div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 275px;					
+    height: 125px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: rgb(204, 224, 250, 0.5);
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
   
   .legend {
     position: relative;
@@ -219,15 +326,5 @@
     display: none;
   }
   
-  /* .focus circle {
-      fill: steelblue;
-      stroke: steelblue;
-    } */
-  
-  /* svg {
-    width: 960px;
-    height:500px; 
-    background-color:whitesmoke;
-  } */
   </style>
   

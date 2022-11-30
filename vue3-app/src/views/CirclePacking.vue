@@ -157,10 +157,10 @@
   <!-- "scoped" attribute limits CSS to this component only -->
   <style scoped>
   
-  /* body {
-      margin: 20px 25px 25px 25px;
+  #ZoomableCirclePacking {
+      margin: 0px 25px 25px 25px;
       padding: 10px
-  } */
+  }
   
   /* #bar-chart {
     display: block;
