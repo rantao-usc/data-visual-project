@@ -23,7 +23,7 @@
                 width = 800
         
                 margin = ({ top: 50, right: 150, bottom: 50, left: 50 })
-                
+
                 var svg = d3.select("#ML")
                     .attr("width", width + margin.left + margin.right)
                     .attr("height", height + margin.top + margin.bottom)
@@ -33,11 +33,11 @@
                 d3.json('data.json').then(function (data) {
                 
                     var x = d3.scaleLinear()
-                        .domain([d3.min(data, d => d.gas_price), 6])
+                        .domain([d3.min(data, d => d.EV), 1100000])
                         .range([margin.left, width - margin.right]);
                     
                     var y = d3.scaleLinear()
-                        .domain([0, 1000000]) // added a bit of breathing room (20,000)
+                        .domain([d3.min(data, d => d.CO2), d3.max(data, d => d.CO2)]) // added a bit of breathing room (20,000)
                         .range([height - margin.bottom, margin.top])
                     
                     var xAxis = d3.axisBottom()
@@ -56,7 +56,7 @@
                         .attr("class", "yAxis")
                         .call(yAxis);
                     
-                    linearRegression = ss.linearRegression(data.map(d => [d.gas_price, d.EV]))
+                    linearRegression = ss.linearRegression(data.map(d => [d.EV, d.CO2]))
                     linearRegressionLine = ss.linearRegressionLine(linearRegression)
 
                     svg.selectAll('circle')
@@ -64,16 +64,16 @@
                         .enter()
                         .append('circle')
                         .attr('r', 3)
-                        .attr('cx', d => x(d.gas_price))
-                        .attr('cy', d => y(d.EV))
+                        .attr('cx', d => x(d.EV))
+                        .attr('cy', d => y(d.CO2))
                         .attr('class', 'dot');
                     
-                    let line_data = [{gas_price: d3.min(data, d => d.gas_price), EV: linearRegressionLine(d3.min(data, d => d.gas_price))},
-                                          {gas_price: 6, EV: linearRegressionLine(6)}];
+                    let line_data = [{EV: d3.min(data, d => d.EV), CO2: linearRegressionLine(d3.min(data, d => d.EV))},
+                                          {EV: 1100000, CO2: linearRegressionLine(1000000)}];
                     
                     var line = d3.line()
-                        .x(d => x(d.gas_price))
-                        .y(d => y(linearRegressionLine(d.gas_price)));
+                        .x(d => x(d.EV))
+                        .y(d => y(linearRegressionLine(d.EV)));
                     
                     svg.append('path')
                         .classed('regressionLine', true)
@@ -85,44 +85,45 @@
                         .attr('stroke-width', 1.5)
                         .attr('d', line);
                     
+                    // One red point
                     svg.append('circle')
                         .attr('r', 3)
-                        .attr('cx', d => x(4))
-                        .attr('cy', d => y(linearRegressionLine(4)))
+                        .attr('cx', d => x(1000000))
+                        .attr('cy', d => y(linearRegressionLine(1000000)))
                         .attr('fill', 'red');
                     
                     svg.append("text")
-                      .attr("x", x(4)+8)
-                      .attr("y", y(linearRegressionLine(4))+10)
-                      .text(`(4, ${linearRegressionLine(4).toFixed(0)})`)
-                    
-                    svg.append("text")
-                      .attr("x", x(5)+8)
-                      .attr("y", y(linearRegressionLine(5))+10)
-                      .text(`(5, ${linearRegressionLine(5).toFixed(0)})`)
+                      .attr("x", x(1000000)+5)
+                      .attr("y", y(linearRegressionLine(1000000))-5)
+                      .text(`(1000000, ${linearRegressionLine(1000000).toFixed(0)})`);
 
                     svg.append('circle')
                         .attr('r', 3)
-                        .attr('cx', d => x(5))
-                        .attr('cy', d => y(linearRegressionLine(5)))
+                        .attr('cx', d => x(900000))
+                        .attr('cy', d => y(linearRegressionLine(900000)))
                         .attr('fill', 'red');
+                    
+                    svg.append("text")
+                      .attr("x", x(900000)+3)
+                      .attr("y", y(linearRegressionLine(900000))-11)
+                      .text(`(900000, ${linearRegressionLine(900000).toFixed(0)})`);
                     
                     // X axis text
                     svg.append("text")
-                      .attr("x", 250)
+                      .attr("x", 300)
                       .attr("y", 500)
                       .classed('label', true)
                       .attr("font-size", 20)
-                      .text("Gas Price (dollar per gallon)")
+                      .text("Number of EV")
 
                     // Y axis text
                     svg.append("text")
-                      .attr("x", -260)
-                      .attr("y", -20)
+                      .attr("x", -400)
+                      .attr("y", -10)
                       .classed('label', true)
                       .attr("font-size", 20)
                       .attr("transform", "rotate(-90)")
-                      .text("Number of EV")
+                      .text("CO2 Emission (millions of metric tons)")
 
                     // Title
                     svg.append("text")
@@ -130,7 +131,7 @@
                       .attr("y", 3)
                       .classed('label', true)
                       .attr("font-size", 30)
-                      .text("How Gas Price Affect Number of EV")
+                      .text("How Number of EV Affect CO2 Emission")
                     
                     // linear line
                     svg.append("text")
@@ -138,14 +139,15 @@
                       .attr("y", 100)
                       .classed('label', true)
                       .attr("fill", "steelblue")
-                      .text(`Function: y=${linearRegression["m"].toFixed(0)}x${linearRegression["b"].toFixed(0)}`)
+                      .text(`Function: y=${linearRegression["m"].toFixed(7)}x + ${linearRegression["b"].toFixed(0)}`)
                     
                     svg.append("text")
                       .attr("x", 690)
                       .attr("y", 130)
                       .classed('label', true)
                       .attr("fill", "steelblue")
-                      .text(`R Squared: ${ss.rSquared(data.map(d => [d.gas_price, d.EV]), linearRegressionLine).toFixed(3)}`)
+                      .text(`R Squared: ${ss.rSquared(data.map(d => [d.EV, d.CO2]), linearRegressionLine).toFixed(3)}`)
+    
                 })
             </script>
         </div>

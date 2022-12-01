@@ -15,6 +15,7 @@
     "d3": "^7.6.1",
     "dayjs": "^1.11.5",
     "highlightjs-copy": "^1.0.3",
+    "simple-statistics": "^7.8.0",
     "timelines-chart": "^2.11.5",
     "vega": "^5.22.1",
     "vega-datasets": "^2.5.0",
