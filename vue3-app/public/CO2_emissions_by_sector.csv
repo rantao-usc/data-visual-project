@@ -1,0 +1,261 @@
+,state,sector,share
+0,Alabama,Commercial,0.021
+1,Alaska,Commercial,0.059
+2,Arizona,Commercial,0.036
+3,Arkansas,Commercial,0.061
+4,California,Commercial,0.061
+5,Colorado,Commercial,0.054
+6,Connecticut,Commercial,0.113
+7,Delaware,Commercial,0.081
+8,District of Columbia,Commercial,0.364
+9,Florida,Commercial,0.032
+10,Georgia,Commercial,0.038
+11,Hawaii,Commercial,0.032
+12,Idaho,Commercial,0.081
+13,Illinois,Commercial,0.081
+14,Indiana,Commercial,0.036
+15,Iowa,Commercial,0.061
+16,Kansas,Commercial,0.046
+17,Kentucky,Commercial,0.026
+18,Louisiana,Commercial,0.012
+19,Maine,Commercial,0.12
+20,Maryland,Commercial,0.108
+21,Massachusetts,Commercial,0.139
+22,Michigan,Commercial,0.078
+23,Minnesota,Commercial,0.085
+24,Mississippi,Commercial,0.025
+25,Missouri,Commercial,0.04
+26,Montana,Commercial,0.064
+27,Nebraska,Commercial,0.047
+28,Nevada,Commercial,0.055
+29,New Hampshire,Commercial,0.107
+30,New Jersey,Commercial,0.107
+31,New Mexico,Commercial,0.038
+32,New York,Commercial,0.142
+33,North Carolina,Commercial,0.046
+34,North Dakota,Commercial,0.024
+35,Ohio,Commercial,0.063
+36,Oklahoma,Commercial,0.037
+37,Oregon,Commercial,0.063
+38,Pennsylvania,Commercial,0.056
+39,Rhode Island,Commercial,0.082
+40,South Carolina,Commercial,0.034
+41,South Dakota,Commercial,0.059
+42,Tennessee,Commercial,0.047
+43,Texas,Commercial,0.021
+44,Utah,Commercial,0.051
+45,Vermont,Commercial,0.163
+46,Virginia,Commercial,0.058
+47,Washington,Commercial,0.068
+48,West Virginia,Commercial,0.021
+49,Wisconsin,Commercial,0.07
+50,Wyoming,Commercial,0.017
+51,Total,Commercial,0.051
+59,Alabama,Electric Power,0.434
+60,Alaska,Electric Power,0.076
+61,Arizona,Electric Power,0.444
+62,Arkansas,Electric Power,0.412
+63,California,Electric Power,0.111
+64,Colorado,Electric Power,0.358
+65,Connecticut,Electric Power,0.256
+66,Delaware,Electric Power,0.145
+67,District of Columbia,Electric Power,0.0
+68,Florida,Electric Power,0.444
+69,Georgia,Electric Power,0.32
+70,Hawaii,Electric Power,0.393
+71,Idaho,Electric Power,0.085
+72,Illinois,Electric Power,0.251
+73,Indiana,Electric Power,0.409
+74,Iowa,Electric Power,0.247
+75,Kansas,Electric Power,0.343
+76,Kentucky,Electric Power,0.495
+77,Louisiana,Electric Power,0.15
+78,Maine,Electric Power,0.052
+79,Maryland,Electric Power,0.192
+80,Massachusetts,Electric Power,0.11
+81,Michigan,Electric Power,0.343
+82,Minnesota,Electric Power,0.245
+83,Mississippi,Electric Power,0.416
+84,Missouri,Electric Power,0.504
+85,Montana,Electric Power,0.385
+86,Nebraska,Electric Power,0.422
+87,Nevada,Electric Power,0.366
+88,New Hampshire,Electric Power,0.128
+89,New Jersey,Electric Power,0.162
+90,New Mexico,Electric Power,0.411
+91,New York,Electric Power,0.164
+92,North Carolina,Electric Power,0.348
+93,North Dakota,Electric Power,0.506
+94,Ohio,Electric Power,0.361
+95,Oklahoma,Electric Power,0.295
+96,Oregon,Electric Power,0.237
+97,Pennsylvania,Electric Power,0.363
+98,Rhode Island,Electric Power,0.324
+99,South Carolina,Electric Power,0.36
+100,South Dakota,Electric Power,0.153
+101,Tennessee,Electric Power,0.237
+102,Texas,Electric Power,0.283
+103,Utah,Electric Power,0.461
+104,Vermont,Electric Power,0.001
+105,Virginia,Electric Power,0.293
+106,Washington,Electric Power,0.161
+107,West Virginia,Electric Power,0.655
+108,Wisconsin,Electric Power,0.362
+109,Wyoming,Electric Power,0.634
+110,Total,Electric Power,0.314
+118,Alabama,Residential,0.019
+119,Alaska,Residential,0.046
+120,Arizona,Residential,0.032
+121,Arkansas,Residential,0.035
+122,California,Residential,0.088
+123,Colorado,Residential,0.106
+124,Connecticut,Residential,0.195
+125,Delaware,Residential,0.07
+126,District of Columbia,Residential,0.257
+127,Florida,Residential,0.007
+128,Georgia,Residential,0.06
+129,Hawaii,Residential,0.004
+130,Idaho,Residential,0.102
+131,Illinois,Residential,0.138
+132,Indiana,Residential,0.054
+133,Iowa,Residential,0.079
+134,Kansas,Residential,0.068
+135,Kentucky,Residential,0.029
+136,Louisiana,Residential,0.01
+137,Maine,Residential,0.212
+138,Maryland,Residential,0.115
+139,Massachusetts,Residential,0.233
+140,Michigan,Residential,0.143
+141,Minnesota,Residential,0.118
+142,Mississippi,Residential,0.023
+143,Missouri,Residential,0.059
+144,Montana,Residential,0.068
+145,Nebraska,Residential,0.054
+146,Nevada,Residential,0.074
+147,New Hampshire,Residential,0.223
+148,New Jersey,Residential,0.167
+149,New Mexico,Residential,0.051
+150,New York,Residential,0.22
+151,North Carolina,Residential,0.045
+152,North Dakota,Residential,0.019
+153,Ohio,Residential,0.092
+154,Oklahoma,Residential,0.046
+155,Oregon,Residential,0.075
+156,Pennsylvania,Residential,0.092
+157,Rhode Island,Residential,0.192
+158,South Carolina,Residential,0.03
+159,South Dakota,Residential,0.071
+160,Tennessee,Residential,0.048
+161,Texas,Residential,0.019
+162,Utah,Residential,0.074
+163,Vermont,Residential,0.262
+164,Virginia,Residential,0.059
+165,Washington,Residential,0.085
+166,West Virginia,Residential,0.022
+167,Wisconsin,Residential,0.112
+168,Wyoming,Residential,0.017
+169,Total,Residential,0.07
+177,Alabama,Industrial,0.183
+178,Alaska,Industrial,0.489
+179,Arizona,Industrial,0.059
+180,Arkansas,Industrial,0.153
+181,California,Industrial,0.212
+182,Colorado,Industrial,0.162
+183,Connecticut,Industrial,0.049
+184,Delaware,Industrial,0.311
+185,District of Columbia,Industrial,0.01
+186,Florida,Industrial,0.054
+187,Georgia,Industrial,0.101
+188,Hawaii,Industrial,0.059
+189,Idaho,Industrial,0.175
+190,Illinois,Industrial,0.209
+191,Indiana,Industrial,0.269
+192,Iowa,Industrial,0.325
+193,Kansas,Industrial,0.239
+194,Kentucky,Industrial,0.138
+195,Louisiana,Industrial,0.614
+196,Maine,Industrial,0.124
+197,Maryland,Industrial,0.055
+198,Massachusetts,Industrial,0.06
+199,Michigan,Industrial,0.117
+200,Minnesota,Industrial,0.206
+201,Mississippi,Industrial,0.181
+202,Missouri,Industrial,0.076
+203,Montana,Industrial,0.178
+204,Nebraska,Industrial,0.193
+205,Nevada,Industrial,0.076
+206,New Hampshire,Industrial,0.06
+207,New Jersey,Industrial,0.097
+208,New Mexico,Industrial,0.17
+209,New York,Industrial,0.056
+210,North Carolina,Industrial,0.09
+211,North Dakota,Industrial,0.295
+212,Ohio,Industrial,0.188
+213,Oklahoma,Industrial,0.277
+214,Oregon,Industrial,0.116
+215,Pennsylvania,Industrial,0.218
+216,Rhode Island,Industrial,0.062
+217,South Carolina,Industrial,0.112
+218,South Dakota,Industrial,0.276
+219,Tennessee,Industrial,0.165
+220,Texas,Industrial,0.367
+221,Utah,Industrial,0.116
+222,Vermont,Industrial,0.088
+223,Virginia,Industrial,0.11
+224,Washington,Industrial,0.18
+225,West Virginia,Industrial,0.156
+226,Wisconsin,Industrial,0.14
+227,Wyoming,Industrial,0.202
+228,Total,Industrial,0.206
+236,Alabama,Transportation,0.342
+237,Alaska,Transportation,0.33
+238,Arizona,Transportation,0.43
+239,Arkansas,Transportation,0.34
+240,California,Transportation,0.529
+241,Colorado,Transportation,0.32
+242,Connecticut,Transportation,0.386
+243,Delaware,Transportation,0.394
+244,District of Columbia,Transportation,0.369
+245,Florida,Transportation,0.464
+246,Georgia,Transportation,0.481
+247,Hawaii,Transportation,0.511
+248,Idaho,Transportation,0.557
+249,Illinois,Transportation,0.321
+250,Indiana,Transportation,0.233
+251,Iowa,Transportation,0.287
+252,Kansas,Transportation,0.303
+253,Kentucky,Transportation,0.312
+254,Louisiana,Transportation,0.213
+255,Maine,Transportation,0.492
+256,Maryland,Transportation,0.531
+257,Massachusetts,Transportation,0.458
+258,Michigan,Transportation,0.319
+259,Minnesota,Transportation,0.346
+260,Mississippi,Transportation,0.355
+261,Missouri,Transportation,0.321
+262,Montana,Transportation,0.305
+263,Nebraska,Transportation,0.284
+264,Nevada,Transportation,0.428
+265,New Hampshire,Transportation,0.481
+266,New Jersey,Transportation,0.466
+267,New Mexico,Transportation,0.33
+268,New York,Transportation,0.419
+269,North Carolina,Transportation,0.47
+270,North Dakota,Transportation,0.156
+271,Ohio,Transportation,0.297
+272,Oklahoma,Transportation,0.344
+273,Oregon,Transportation,0.508
+274,Pennsylvania,Transportation,0.272
+275,Rhode Island,Transportation,0.34
+276,South Carolina,Transportation,0.464
+277,South Dakota,Transportation,0.443
+278,Tennessee,Transportation,0.503
+279,Texas,Transportation,0.309
+280,Utah,Transportation,0.299
+281,Vermont,Transportation,0.487
+282,Virginia,Transportation,0.48
+283,Washington,Transportation,0.506
+284,West Virginia,Transportation,0.146
+285,Wisconsin,Transportation,0.315
+286,Wyoming,Transportation,0.131
+287,Total,Transportation,0.359

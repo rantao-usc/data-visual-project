@@ -57,7 +57,7 @@
 // CO2 raw --> min: 2.4, max: 684.7
 // CO2 transportation --> min: 0.9, max: 235.7
 
-var color = d3.scaleQuantize([0.9, 235.7], d3.schemeBlues[9])  // Changed to 8 shades for our data
+var color = d3.scaleQuantize([0.9, 235.7], d3.schemeReds[8])// Changed to 8 shades for our data
 
 
 svg.append("g")
@@ -101,7 +101,9 @@ svg.append("g")
       .append('path')
       .attr('class', 'state')
       .attr('d', path)
-
+ // updates for vue
+ d3.selectAll(".state")
+      .append('title')
 
     // Tooltip functionality
     // stateShapes
@@ -143,7 +145,10 @@ svg.append("g")
         d3.select("#year").text(year);
         stateShapes.style("fill", function (d) {
           return color(d.properties.years.get(year)[0].emissions)
-        });
+        })
+        // updates to include
+      .selectAll("title")
+      .text(d => `${d.properties.name} (${year}) - ${d.properties.years.get(year)[0].emissions}`)
       }
 
     // Slider implementation
