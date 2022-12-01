@@ -33,25 +33,17 @@
 				<span class="material-icons">pie_chart</span>
 				<span class="text">CO2 Emissions by Sector</span>
 			</RouterLink>
-			<!-- <RouterLink to="/d3chartcomp" class="button">
-				<span class="material-icons">pie_chart</span>
-				<span class="text">Pie Chart</span>
-			</RouterLink> -->
-			<!--<router-link to="/contact" class="button">
-				<span class="material-icons">email</span>
-				<span class="text">Contact</span>
-				pie_chart
-			</router-link> -->
+			<RouterLink to="/proportionalChart" class="button">
+				<span class="material-icons">language</span>
+				<span class="text">EV counts by state</span>
+			</RouterLink>
+			<RouterLink to="/proportionalChart" class="button">
+				<span class="material-icons">query_stats</span>
+				<span class="text">Predictive analysis</span>
+			</RouterLink>
 		</div>
 
 		<div class="flex"></div>
-		
-		<!-- <div class="menu">
-			<router-link to="/settings" class="button">
-				<span class="material-icons">settings</span>
-				<span class="text">Settings</span>
-			</router-link>
-		</div> -->
 	</aside>
 </template>
 

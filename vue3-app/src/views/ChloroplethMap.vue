@@ -1,14 +1,13 @@
 <template>
-  <body>
     <div id="chloropethChart">
       <h1 class="mt-3">U.S. Transportation CO2 Emissions</h1>
   
       <div class="info_chloro">The graph shown below is a chloropleth map, which shows the transportation CO2 emissions for the years 1970 to 2020.</div>
-      <h2 class="year"></h2>
-      <div class="slider"></div>
+      <h4 id="year"></h4>
+      <!-- <div class="tooltip" style="opacity: 0; text-align:left;"></div> -->
+      <div id="slider"></div>
       <svg width="990" height="600" id="choropleth-co2"></svg>
     </div>
-  </body>
   </template>
   
   <script>
@@ -18,8 +17,6 @@
   export default {
     name: 'chloropethChart',
     mounted: function(){
-        console.log("mounted Map Chart component");
-
         var promises = [];
         var states_file = 'maps_data/states-albers-10m.json';
         var co2_file = 'maps_data/transportation_co2_unpivoted.csv';
@@ -33,9 +30,6 @@
     });
     },
     methods: {
-
-
-
     chloropethChart(){
 
   // Choropleth implementation 
@@ -53,10 +47,10 @@
 
 
 // Create tooltip
-var tooltip = d3.select("body")
-  .append("div")
-  .attr("class", "tooltip")
-  .style("opacity", 0);
+// var tooltip = d3.select("body")
+//   .append("div")
+//   .attr("class", "tooltip")
+//   .style("opacity", 0);
 
 
 // CO2 per capita --> min: 3.5, max: 131.2
@@ -69,6 +63,7 @@ var color = d3.scaleQuantize([0.9, 235.7], d3.schemeBlues[9])  // Changed to 8 s
 svg.append("g")
   .attr("transform", "translate(610,20)")
   .append(() => this.legend({ color, title: 'CO2 Emissions (millions of metric tons)', width: 260, tickFormat: d3.format(".1f") }));
+  // var div = d3.select(".tooltip");
 
     var us = this.values[0];
     this.us = us
@@ -109,51 +104,50 @@ svg.append("g")
 
 
     // Tooltip functionality
-    stateShapes
-      .on("mouseover", function (d) {
-        tooltip.transition()
-          .duration(250)
-          .style("opacity", 1);
+    // stateShapes
+    //   .on("mouseover", function (d) {
+    //     tooltip.transition()
+    //       .duration(250)
+    //       .style("opacity", 1);
 
 
-        tooltip.html(
-          "<p><strong>" + d.path[0].__data__.properties.years.get(1970)[0].state + "</strong></p>" +
-          "<table><tbody><tr><td class='wide'>Transportation CO2 Emissions in 1970:&nbsp</td> <td>" + d.path[0].__data__.properties.years.get(1970)[0].emissions + "</td></tr>" +
-          "<tr><td>Transportation CO2 Emissions in 2020:&nbsp</td><td>" + d.path[0].__data__.properties.years.get(2020)[0].emissions + "</td></tr>" +
-          "<tr><td>Change:</td><td>" + formatPercent((d.path[0].__data__.properties.years.get(2020)[0].emissions - d.path[0].__data__.properties.years.get(1970)[0].emissions) / 100) + "</td></tr></tbody></table>"
-        )
-          .style("left", (d.pageX + 50) + "px")
-          .style("top", (d.pageY - 20) + "px");
-            })
-        .on("mouseout", function (d) {
-          tooltip.transition()
-            .duration(250)
-            .style("opacity", 0);
-        });
+    //     tooltip.html(
+    //       "<p><strong>" + d.path[0].__data__.properties.years.get(1970)[0].state + "</strong></p>" +
+    //       "<table><tbody><tr><td class='wide'>Transportation CO2 Emissions in 1970:&nbsp</td> <td>" + d.path[0].__data__.properties.years.get(1970)[0].emissions + "</td></tr>" +
+    //       "<tr><td>Transportation CO2 Emissions in 2020:&nbsp</td><td>" + d.path[0].__data__.properties.years.get(2020)[0].emissions + "</td></tr>" +
+    //       "<tr><td>Change:</td><td>" + formatPercent((d.path[0].__data__.properties.years.get(2020)[0].emissions - d.path[0].__data__.properties.years.get(1970)[0].emissions) / 100) + "</td></tr></tbody></table>"
+    //     )
+    //       .style("left", (d.pageX + 50) + "px")
+    //       .style("top", (d.pageY - 20) + "px");
+    //         })
+    //     .on("mouseout", function (d) {
+    //       tooltip.transition()
+    //         .duration(250)
+    //         .style("opacity", 0);
+    //     });
 
 
       // Draw state boundaries
       svg.append("path")
         .datum(topojson.mesh(us, us.objects.states, (a, b) => a !== b))
         .attr("fill", "none")
-        .attr("stroke", "white")
+        .attr("stroke", "black")
         .attr("stroke-linejoin", "round")
         .attr("d", path);
 
+      
 
       // Update choropleth based on year selected by slider
       function update(year) {
-        slider.property("value", year);
-        d3.select(".year").text(year);
+        slider_input.property("value", year);
+        d3.select("#year").text(year);
         stateShapes.style("fill", function (d) {
-
           return color(d.properties.years.get(year)[0].emissions)
-
         });
       }
 
     // Slider implementation
-    var slider = d3.select(".slider")
+    var slider_input = d3.select("#slider")
       .append("input")
       .attr("type", "range")
       .attr("min", 1970)
@@ -162,10 +156,9 @@ svg.append("g")
       .style('width', '300px')
       .on("input", function () {
         var year = +this.value;  // make sure is a number as thats what it is expecting
-
-        console.log(year)
         update(year);
       });
+      
 
     // Initialize chart to be 1970
     update(1970);
@@ -284,7 +277,7 @@ svg.append("g")
   <!-- "scoped" attribute limits CSS to this component only -->
   <style scoped>
   
-  :deep(#chloropethChart) {
+  #chloropethChart{
       margin: 0px 25px 25px 25px;
       padding: 10px
   }

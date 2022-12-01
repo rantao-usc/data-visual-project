@@ -21,7 +21,9 @@
     });
     },
     methods: {
-    multiLineGraph(data) {
+      multiLineGraph(data) {
+    // console.log(data);
+    // set the dimensions and margins of the graph
     var margin = {top: 20, right: 20, bottom: 40, left: 60},
         width = 960 - margin.left - margin.right,
         height = 480 - margin.top - margin.bottom;
@@ -48,9 +50,9 @@
   var x = d3.scaleTime().range([0, width]);
   var y = d3.scaleLinear().range([height, 0]);
   var fuel_idx_dict = {"gasoline": 0, "propane": 1, "diesel": 2, "electricity": 3};
-  var fuel_types = Object.keys(fuel_idx_dict);
+      var fuel_types = Object.keys(fuel_idx_dict);
 
-  d3.select("#selectButton")
+      d3.select("#selectButton")
           .selectAll('myOptions')
           .data(fuel_types)
           .enter()
@@ -110,7 +112,7 @@
           .attr("x", width/2)
           .attr("dy", "0.9em")
           .attr("fill", "#000")
-          .attr("font-size", "15px")
+          .attr("font-size", "12px")
           .text("Year")
           .append("text")
           .attr("y", 20)
@@ -128,7 +130,6 @@
           .attr("x", -125)
           .attr("dy", "0.9em")
           .attr("fill", "#000")
-          .attr("font-size", "15px")
           .text("Average Fuel Price ($)");
       
 
@@ -177,13 +178,16 @@
   </script>
   
   <!-- "scoped" attribute limits CSS to this component only -->
-  <style lang="scss" scoped>
-.d3multiline{
+  <style scoped>
+.d3multiline {
       margin: 0px 25px 25px 25px;
       padding: 10px
   }
+  /* .info_multi {
+      margin: 10px;
+  } */
 
-:deep(#multi-line) {
+  :deep(#multi-line) {
   display: block;
   margin: auto;
 }
@@ -196,16 +200,22 @@
   width: 120px;
   padding: 0 1em 0 0;
   border: 1px solid var(--dark);
-  border-color:black;
+  border-color: black;
   border-radius: 0.25em;
-  margin: 15px;
+  margin: 0;
   font-family: inherit;
   font-size: inherit;
   cursor: inherit;
   line-height: inherit;
 }
+
 :deep(.axis-grid line) {
   stroke: rgb(187, 213, 238);
+}
+
+:deep(text) {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 13px;
 }
 
 :deep(.center) {

@@ -31,9 +31,9 @@ const router = createRouter({
       component: () => import('../views/PieChart.vue')
     },
     {
-      path: '/d3chartcomp',
-      name: 'd3chartcomp',
-      component: () => import('../views/D3ChartCompView.vue')
+      path: '/proportionalChart',
+      name: 'proportionalChart',
+      component: () => import('../views/ProportionalMap.vue')
     },
     {
       path: '/smallmultiples',
