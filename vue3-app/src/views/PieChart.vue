@@ -51,6 +51,10 @@ const path = d3.arc()
     .outerRadius(radius)
     .innerRadius(0)
 
+var arcOver = d3.arc()
+    .innerRadius(0)
+    .outerRadius(radius + 10);
+
 var state_idx_dict = {
         "Total": 51, "Alabama": 0, "Alaska": 1, "Arizona": 2, "Arkansas": 3, "California": 4, "Colorado": 5,
         "Connecticut": 6, "Delaware": 7, "District of Columbia": 8, "Florida": 9, "Georgia": 10,
@@ -87,12 +91,57 @@ function update(selectedState) {
         g = svg_pie.append('g')
             .attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ')');
 
+        var tooltip = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0.5);
+      
+      tooltip.append("rect")
+        .attr("width", 30)
+        .attr("height", 20)
+        .attr("fill", "#ffffff")
+        .style("opacity", 0.5);
+      
+      tooltip.append("div")
+        .attr("x", 15)
+        .attr("dy", "1.2em")
+        .style("text-anchor", "middle")
+        .attr("font-size", "1.5em")
+        .attr("font-weight", "bold");
 
         var arc = g.selectAll(".arc")
             .data(pie(filtered_data))
             .enter()
             .append('g')
             .attr('class', 'arc')
+            .on("mouseover", function() {
+          tooltip.style("display", null);
+        })
+        .on("mousemove", function(d) {
+          tooltip.transition().duration(200)
+            .style("opacity", 0.9);
+          tooltip.select("div").html("<strong>" + d.exchange_rate + "</strong>")
+            .style("position", "fixed")
+            .style("text-align", "center")
+            .style("width", "120px")
+            .style("height", "45px")
+            .style("padding", "2px")
+            .style("font", "12px sans-serif")
+            .style("background", "lightsteelblue")
+            .style("border", "0px")
+            .style("border-radius", "8px")
+            .style("left", (d3.pageX + 15) + "px")
+            .style("top", (d3.pageY - 28) + "px");
+          d3.select(this.firstChild).transition()
+            .attr("d", arcOver);
+      
+        })
+        .on("mouseout", function() {
+          tooltip.style("display", "none")
+          d3.select(this.firstChild).transition()
+            .attr("d", path)
+            .attr("stroke", "none");
+        })
+    
 
 
 
