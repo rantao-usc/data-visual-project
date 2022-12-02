@@ -61,7 +61,7 @@
                   </b-card></b-col>
                   <b-col> <b-card
                     title="Predictive analysis"
-                    img-src="card_component_elements/chart3.png"
+                    img-src="card_component_elements/chart6.png"
                     img-alt="Image"
                     img-top
                     tag="article"
