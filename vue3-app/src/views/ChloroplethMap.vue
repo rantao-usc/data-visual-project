@@ -2,7 +2,7 @@
     <div id="chloropethChart">
       <h1 class="mt-3">U.S. Transportation CO2 Emissions</h1>
   
-      <div class="info_chloro">The graph shown below is a chloropleth map, which shows the transportation CO2 emissions for the years 1970 to 2020.</div>
+      <div class="info_chloro">The graph shown below is a chloropleth map, which shows the transportation CO2 emissions for the years 1970 to 2020. Play with the slider to see the change over this time.</div>
       <h4 id="year"></h4>
       <!-- <div class="tooltip" style="opacity: 0; text-align:left;"></div> -->
       <div id="slider"></div>

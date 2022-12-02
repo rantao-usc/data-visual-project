@@ -17,13 +17,13 @@
 				<span class="material-icons">description</span>
 				<span class="text">About</span>
             </RouterLink>
+			<RouterLink to="/proportionalChart" class="button">
+				<span class="material-icons">language</span>
+				<span class="text">EV counts by state</span>
+			</RouterLink>
 			<RouterLink to="/d3multiline" class="button">
 				<span class="material-icons">ssid_chart</span>
 				<span class="text">Average Retail Fuel Prices</span>
-			</RouterLink>
-			<RouterLink to="/ZoomableCirclePacking" class="button">
-				<span class="material-icons">bubble_chart</span>
-				<span class="text">Electricity Source per State</span>
 			</RouterLink>
 			<RouterLink to="/chloropethChart" class="button">
 				<span class="material-icons">map</span>
@@ -33,9 +33,9 @@
 				<span class="material-icons">pie_chart</span>
 				<span class="text">CO2 Emissions by Sector</span>
 			</RouterLink>
-			<RouterLink to="/proportionalChart" class="button">
-				<span class="material-icons">language</span>
-				<span class="text">EV counts by state</span>
+			<RouterLink to="/ZoomableCirclePacking" class="button">
+				<span class="material-icons">bubble_chart</span>
+				<span class="text">Electricity Source per State</span>
 			</RouterLink>
 			<RouterLink to="/PredictiveAnalysisCharts" class="button">
 				<span class="material-icons">query_stats</span>
@@ -49,8 +49,6 @@
 
 <script setup>
 import { ref } from 'vue'
-import D3BarchartViewVue from '../views/D3BarchartView.vue';
-import D3ChartViewVue from '../views/D3ChartView.vue';
 import { RouterLink, RouterView } from 'vue-router'
 import logoURL from '../assets/icon-car.jpg'
 

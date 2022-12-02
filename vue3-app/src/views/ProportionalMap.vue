@@ -2,7 +2,7 @@
   <div id="proportionalChart">
     <h1 class="mt-3">U.S. Electric vehicle counts</h1>
 
-    <div class="info_proportional">The graph shown below is a proportional map, which shows the count for all the states in the US for the years 2016, 2018, 2019, 2020.</div>
+    <div class="info_proportional">The graph shown below is a proportional map, which shows the count for all the states in the US for the years 2016, 2018, 2019, 2021.</div>
     <!-- <h4 id="year"></h4> -->
     <!-- <div id="slider_2"></div> -->
     <svg width="500" height="300" id="proportional-count-2016"></svg>
@@ -10,7 +10,7 @@
     <h6 class="tab4">2016<span class="tab"></span>2018</h6>
     <svg width="500" height="300" id="proportional-count-2019"></svg>
     <svg width="500" height="300" id="proportional-count-2021"></svg>
-    <h6 class="tab4">2019<span class="tab"></span>2020</h6>
+    <h6 class="tab4">2019<span class="tab"></span>2021</h6>
   </div>
 </template>
 

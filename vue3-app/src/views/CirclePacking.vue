@@ -2,7 +2,7 @@
     <div id="ZoomableCirclePacking">
       <h1 class="mt-3">Electricity Source per State</h1>
   
-      <div class="title">The graph shown below is a zoommable circle packing chart, Write something here about the graph</div>
+      <div class="title">The graph shown below is a zoommable circle packing chart, click on a state to see what electricity sources they are using.</div>
         <svg width="990" height="600" id="circle_packing"></svg>
     </div>
   </template>

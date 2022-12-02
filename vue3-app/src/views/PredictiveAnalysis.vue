@@ -1,14 +1,15 @@
 <template>
     <div id="PredictiveAnalysisCharts">
       <h1 class="mt-3">Our Analysis</h1>
-        <p>The visualisations below show our process from exploring '' data to gain some insights and do some forecasting on ''.
+        <p>The visualisations below show our process from exploring gas prices and electric vehicle data to gain some insights and do some forecasting on the prices and count. We have shown a summary of some of the 
+          analysis below.
         The notebook for this can be accessed by clicking <a href="https://colab.research.google.com/drive/14kRb6bsNe_zPFzZKyygjSiA0OK2cSpFZ?usp=sharing" target="_blank">here.</a></p>
       <div>
         <b-container>
           <b-row>
             <b-col><b-card
-                    title="Multi line chart"
-                    img-src="card_component_elements/chart1.png"
+                    title="CO2 Emission vs Number of Electric vehicles"
+                    img-src="card_component_elements/CO2_vs_EV.png"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -17,8 +18,8 @@
                   >
                   </b-card></b-col>
                   <b-col> <b-card
-                    title="Zoommable circle packing"
-                    img-src="card_component_elements/chart2.png"
+                    title="Number of Electric vehicles vs Gas Price"
+                    img-src="card_component_elements/ev_price.png"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -27,8 +28,8 @@
                   >
                   </b-card></b-col>
                   <b-col> <b-card
-                    title="Chloropleth map"
-                    img-src="card_component_elements/chart3.png"
+                    title="CO2 Emission vs number of Electric vehicles"
+                    img-src="card_component_elements/co2_emission_vs_amount_of_ev.png"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -39,8 +40,8 @@
                 </b-row>
                 <b-row>
             <b-col><b-card
-                    title="Pie Chart"
-                    img-src="card_component_elements/chart4.png"
+                    title="Gas Price vs number of Electric vehicles"
+                    img-src="card_component_elements/gas_price_vs_amount_of_ev.png"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -49,8 +50,8 @@
                   >
                   </b-card></b-col>
                   <b-col> <b-card
-                    title="Proportional chart"
-                    img-src="card_component_elements/chart5.png"
+                    title="GDP vs number of Electric vehicles"
+                    img-src="card_component_elements/gdp_vs_amount_of_ev.png"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -59,8 +60,8 @@
                   >
                   </b-card></b-col>
                   <b-col> <b-card
-                    title="Predictive analysis"
-                    img-src="card_component_elements/chart6.png"
+                    title="Error Rate Chart for Multivariable (R-squared value)"
+                    img-src="card_component_elements/multivariable.jpg"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -84,7 +85,7 @@ export default {
 </script>
 <style scoped>
 #PredictiveAnalysisCharts{
-  margin: 10px 0px 25px 25px;
+  margin: 5px 15px;
   /* padding: 10px */
 }
 </style>

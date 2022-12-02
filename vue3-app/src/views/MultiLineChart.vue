@@ -183,9 +183,9 @@
       margin: 0px 25px 25px 25px;
       padding: 10px
   }
-  /* .info_multi {
+  .info_multi {
       margin: 10px;
-  } */
+  }
 
   :deep(#multi-line) {
   display: block;
