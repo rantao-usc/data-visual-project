@@ -88,4 +88,17 @@ export default {
   margin: 5px 15px;
   /* padding: 10px */
 }
+.card .read-more:hover{
+    font-size: 14px;
+}
+
+.card:hover{
+    box-shadow: 8px 8px 8px green;
+    transform:scale(1.2);
+}
+
+.card{
+  transition:.3s;
+  margin: 0.5rem;
+}
 </style>

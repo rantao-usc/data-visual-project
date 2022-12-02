@@ -63,6 +63,13 @@ Team members: Vedaanti Baliga, Sofian Ghazali, Ran Tao, Kyle Brooks
 - (Will) convert google doc of paper to latex format
 - (Will) manage references in bibliography
 
+[Vedaanti Baliga](mailto:vbaliga@usc.edu):
+
+- Approach : Frontend designing approach (Vue framework)
+- System
+- Conclusion : Future development and considerations
+
+
 ### Video
 
 [Tommy Trojan](mailto:tommy@usc.edu):

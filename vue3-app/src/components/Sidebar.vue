@@ -21,10 +21,6 @@
 				<span class="material-icons">language</span>
 				<span class="text">EV counts by state</span>
 			</RouterLink>
-			<RouterLink to="/d3multiline" class="button">
-				<span class="material-icons">ssid_chart</span>
-				<span class="text">Average Retail Fuel Prices</span>
-			</RouterLink>
 			<RouterLink to="/chloropethChart" class="button">
 				<span class="material-icons">map</span>
 				<span class="text">CO2 Emissions</span>
@@ -36,6 +32,10 @@
 			<RouterLink to="/ZoomableCirclePacking" class="button">
 				<span class="material-icons">bubble_chart</span>
 				<span class="text">Electricity Source per State</span>
+			</RouterLink>
+			<RouterLink to="/d3multiline" class="button">
+				<span class="material-icons">ssid_chart</span>
+				<span class="text">Average Retail Fuel Prices</span>
 			</RouterLink>
 			<RouterLink to="/PredictiveAnalysisCharts" class="button">
 				<span class="material-icons">query_stats</span>
