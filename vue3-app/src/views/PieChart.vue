@@ -1,6 +1,6 @@
 <template>
     <div id="Piechart">
-        <h1 class="mt-3">CO2 Emissions by Sector by State</h1>
+        <h1 class="mt-3">CO2 Emissions by Sector by State for 2020</h1>
         <p>Click on one of the states to view the CO2 emissions broken down by sector.</p>
         <select id="selectButton"></select>
 
@@ -13,7 +13,7 @@ import * as d3 from "d3";
 export default {
   name: "Piechart",
   mounted: function () {
-    d3.csv('CO2_emissions_by_sector.csv', d => {
+    d3.csv('co2_emissions/CO2_emissions_by_sector.csv', d => {
         return {
             state: d.state,
             sector: d.sector,

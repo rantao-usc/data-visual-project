@@ -16,7 +16,7 @@
   export default {
     name: 'd3multiline',
     mounted: function () {
-      d3.csv("multi-line-data.csv").then((data) => {
+      d3.csv("avg_retail_prices/multi-line-data.csv").then((data) => {
       this.multiLineGraph(data);
     });
     },

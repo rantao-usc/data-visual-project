@@ -36,24 +36,9 @@ const router = createRouter({
       component: () => import('../views/ProportionalMap.vue')
     },
     {
-      path: '/smallmultiples',
-      name: 'smallmultiples',
-      component: () => import('../views/SmallMultiplesView.vue')
-    },
-    {
-      path: '/map',
-      name: 'map',
-      component: () => import('../views/MapboxMapView.vue')
-    },
-    {
-      path: '/mapcomp',
-      name: 'mapcomp',
-      component: () => import('../views/MapboxMapCompView.vue')
-    },
-    {
-      path: '/deckmapcomp',
-      name: 'deckmapcomp',
-      component: () => import('../views/MapboxDeckGLMapCompView.vue')
+      path: '/PredictiveAnalysisCharts',
+      name: 'PredictiveAnalysisCharts',
+      component: () => import('../views/PredictiveAnalysis.vue')
     },
     {
       path: '/about',

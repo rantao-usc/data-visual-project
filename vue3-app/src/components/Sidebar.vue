@@ -37,7 +37,7 @@
 				<span class="material-icons">language</span>
 				<span class="text">EV counts by state</span>
 			</RouterLink>
-			<RouterLink to="/proportionalChart" class="button">
+			<RouterLink to="/PredictiveAnalysisCharts" class="button">
 				<span class="material-icons">query_stats</span>
 				<span class="text">Predictive analysis</span>
 			</RouterLink>

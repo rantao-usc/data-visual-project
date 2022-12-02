@@ -9,7 +9,7 @@
           <b-row>
             <b-col><b-card
                     title="Multi line chart"
-                    img-src="chart1.png"
+                    img-src="card_component_elements/chart1.png"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -19,7 +19,7 @@
                   </b-card></b-col>
                   <b-col> <b-card
                     title="Zoommable circle packing"
-                    img-src="chart2.png"
+                    img-src="card_component_elements/chart2.png"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -29,7 +29,7 @@
                   </b-card></b-col>
                   <b-col> <b-card
                     title="Chloropleth map"
-                    img-src="chart3.png"
+                    img-src="card_component_elements/chart3.png"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -41,7 +41,7 @@
                 <b-row>
             <b-col><b-card
                     title="Pie Chart"
-                    img-src="https://picsum.photos/600/300/?image=25"
+                    img-src="card_component_elements/chart4.png"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -51,7 +51,7 @@
                   </b-card></b-col>
                   <b-col> <b-card
                     title="Proportional chart"
-                    img-src="https://picsum.photos/600/300/?image=25"
+                    img-src="card_component_elements/chart5.png"
                     img-alt="Image"
                     img-top
                     tag="article"
@@ -61,7 +61,7 @@
                   </b-card></b-col>
                   <b-col> <b-card
                     title="Predictive analysis"
-                    img-src="https://picsum.photos/600/300/?image=25"
+                    img-src="card_component_elements/chart3.png"
                     img-alt="Image"
                     img-top
                     tag="article"

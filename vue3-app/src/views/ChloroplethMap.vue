@@ -80,7 +80,7 @@ svg.append("g")
       d.year = +d.year
       d.emissions = +d.emissions
     })
-
+    console.log(this.data)
 
     // Group by state and year
     var dataByStateByYear = d3.group(this.data, d => d.state, d => d.year)
@@ -101,9 +101,9 @@ svg.append("g")
       .append('path')
       .attr('class', 'state')
       .attr('d', path)
- // updates for vue
- d3.selectAll(".state")
-      .append('title')
+    // updates for vue
+    d3.selectAll(".state")
+          .append('title')
 
     // Tooltip functionality
     // stateShapes

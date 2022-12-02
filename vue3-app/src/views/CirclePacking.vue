@@ -14,7 +14,7 @@
   export default {
     name: 'ZoomableCirclePacking',
     mounted: function(){
-    d3.json("bubble.json").then(data => {
+    d3.json("electricity_per_state/bubble.json").then(data => {
             this.circlePacking(data)
         });
     },

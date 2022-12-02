@@ -25,8 +25,10 @@ Team members: Vedaanti Baliga, Sofian Ghazali, Ran Tao, Kyle Brooks
 
 [Vedaanti Baliga](mailto:vbaliga@usc.edu):
 
--
-
+- Developed the Vue app (dashboard, interactive sidebar, card components)
+- Integrated the d3/html charts of all members into Vue
+- Created the proportional symbol map for electric vehicle counts (will do slider)
+- Added a hover effect to Kyle's Pie Chart
 
 [Kyle Brooks](mailto:kylebroo@usc.edu):
 
