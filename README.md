@@ -47,13 +47,20 @@ to see if we are able to predict EV counts from these entities.
 
 [Ran Tao](mailto:taoran@usc.edu):
 
--
+- Created d3 scatter plot and linear regression line for two linear regression models
+  - Gas price vs Amount of Electric cars
+  - Amount of Electric cars vs CO2 emissions
 
 ### Model performance analysis
 
 [Ran Tao](mailto:taoran@usc.edu):
 
--
+- Built three single variable polynomial regression models: Gas price vs Amount of Electric cars, GDP vs Amount of Electric cars, and CO2 emissions vs Amount of Electric cars
+- Trained each polynomial regression models with 5-10 different degrees, plotted the fitted lines for each degree, and calcuate the R squared of each degree
+- Selected the best degree for each polynomial regression model based on R squared
+- Built three multiple variable regression model using one to three features
+- Conducted 5-fold Cross Validation to calculate the average R squared for each model
+- Determine the number of features gives the best model performance
 
 [Sofian Ghazali](mailto:sghazali@usc.edu):
 
@@ -90,6 +97,10 @@ to see if we are able to predict EV counts from these entities.
 - Results
 - Conclusion
 
+[Ran Tao](mailto:taoran@usc.edu):
+- Approach: Machine Learning Approach
+- Results
+
 
 ### Video
 
@@ -105,3 +116,7 @@ to see if we are able to predict EV counts from these entities.
 [Sofian Ghazali](mailto:sghazali@usc.edu):
 - Explained impact of current fuel prices on consumers through multi-line chart.
 - Highlighted an additional consideration of electricity energy sources that power EVs. This was to help consumers understand if EVs are right choice for their state from an environment standpoint.
+
+[Ran Tao](mailto:taoran@usc.edu):
+- Explained two linear regression models on the dashboard
+- Explained three single variable polynomial regression model and one multi variable regression model on the notebook
