@@ -20,6 +20,7 @@ Team members: Vedaanti Baliga, Sofian Ghazali, Ran Tao, Kyle Brooks
 - Video: [YouTube link](https://youtu.be/07OsRnzbzSk)
 
 ## Contributions
+**Note** - contributions can be tracked in each individuals branch (Vedaanti worked out of the main/master branch)
 
 ### Demo
 
