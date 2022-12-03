@@ -19,7 +19,7 @@ to see if we are able to predict EV counts from these entities.
 
 - Demo: [dev set-up instructions](vue3-app/README.md)
 - Model performance notebooks: [Link for notebook](model-performance-notebooks) | [Link for online google colab notebook](https://colab.research.google.com/drive/14kRb6bsNe_zPFzZKyygjSiA0OK2cSpFZ?usp=sharing)
-- Paper: [Overleaf read-only link (if applicable)](https://www.overleaf.com/read/bfvbcgpqdsym) and [paper PDF](paper/dsci554_finalproject.pdf)
+- Paper: [Overleaf read-only link (if applicable)](https://www.overleaf.com/read/bfvbcgpqdsym) and [paper PDF](paper/paper.pdf)
 - Video: [YouTube link](https://youtu.be/07OsRnzbzSk)
 
 ## Contributions
