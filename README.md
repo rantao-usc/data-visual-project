@@ -41,7 +41,11 @@ to see if we are able to predict EV counts from these entities.
 
 [Sofian Ghazali](mailto:sghazali@usc.edu):
 
--
+- Created d3 multi-line chart for showcasing average fuel prices over time. I integrated dropdown option for different categories and added d3 update-transition for line charts.
+- Designed zoomable circle packing from observable d3 but added different color options using d3 color scale to highlight different US states and their respectives energy source proportions.
+- Conducted EDA and pre-processing for ML phase and generated scatterplot-matrix/boxplots/tables. 
+- Coordinated with Ran to design simple linear & polynomial regression. 
+- Added grid layout with legend for Ran's predictive model chart. 
 
 [Ran Tao](mailto:taoran@usc.edu):
 
@@ -55,7 +59,7 @@ to see if we are able to predict EV counts from these entities.
 
 [Sofian Ghazali](mailto:sghazali@usc.edu):
 
--
+- Documented the notebook about observations from EDA charts. For example, explained trends occurring from scatterplot-matrix and discussed data distribution. 
 
 
 ### Paper
@@ -77,6 +81,14 @@ to see if we are able to predict EV counts from these entities.
 - Approach : Frontend designing approach
 - System
 
+[Sofian Ghazali](mailto:sghazali@usc.edu):
+
+- Introduction
+- Data
+- Approach: Machine Learning Approach (Data Exploration and ML Model Choice)
+- Results
+- Conclusion
+
 
 ### Video
 
@@ -89,3 +101,6 @@ to see if we are able to predict EV counts from these entities.
 - Explained enviornmental draw towards EVs.
 - Explained choropleth and pie chart
 
+[Sofian Ghazali](mailto:sghazali@usc.edu):
+- Explained impact of current fuel prices on consumers through multi-line chart.
+- Highlighted an additional consideration of electricity energy sources that power EVs. This was to help consumers understand if EVs are right choice for their state from an environment standpoint.
