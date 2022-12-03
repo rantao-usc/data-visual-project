@@ -88,7 +88,6 @@ export default {
   margin: 5px 15px;
   /* padding: 10px */
 }
-<<<<<<< HEAD
 .card .read-more:hover{
     font-size: 14px;
 }
@@ -102,6 +101,4 @@ export default {
   transition:.3s;
   margin: 0.5rem;
 }
-=======
->>>>>>> origin/master
 </style>

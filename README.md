@@ -14,10 +14,10 @@ Team members: Vedaanti Baliga, Sofian Ghazali, Ran Tao, Kyle Brooks
 
 ## Artifacts
 
-- Demo: [Demo link](demo_url) and/or [dev set-up instructions](DEV_INSTRUCTIONS.md)
-- Model performance notebooks: add links to notebooks here
+- Demo: [dev set-up instructions](vue3-app/README.md)
+- Model performance notebooks: [Link for notebook](model-performance-notebooks) | [Link for online google colab notebook](https://colab.research.google.com/drive/14kRb6bsNe_zPFzZKyygjSiA0OK2cSpFZ?usp=sharing)
 - Paper: [Overleaf read-only link (if applicable)](https://www.overleaf.com/read/btvmfhdyrbvk) and [paper PDF](paper/paper.pdf)
-- Video: [YouTube link](http://youtube.com)
+- Video: [YouTube link](https://youtu.be/07OsRnzbzSk)
 
 ## Contributions
 
@@ -72,8 +72,7 @@ Team members: Vedaanti Baliga, Sofian Ghazali, Ran Tao, Kyle Brooks
 
 ### Video
 
-[Tommy Trojan](mailto:tommy@usc.edu):
-
--
--
--
+[Vedaanti Baliga](mailto:vbaliga@usc.edu):
+- Introduced the problem statement and the dashboard. Explained the proportional map as well.
+- Recorded video
+- Edited and uploaded video to YouTube
