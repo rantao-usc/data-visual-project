@@ -65,9 +65,8 @@ Team members: Vedaanti Baliga, Sofian Ghazali, Ran Tao, Kyle Brooks
 
 [Vedaanti Baliga](mailto:vbaliga@usc.edu):
 
-- Approach : Frontend designing approach (Vue framework)
+- Approach : Frontend designing approach
 - System
-- Conclusion : Future development and considerations
 
 
 ### Video
