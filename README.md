@@ -61,8 +61,13 @@ Team members: Vedaanti Baliga, Sofian Ghazali, Ran Tao, Kyle Brooks
 
 - Introduction
 - Data
-- (Will) convert google doc of paper to latex format
-- (Will) manage references in bibliography
+- Conclusion
+- Abstract
+- Related Work
+- Converted google doc of paper to latex format
+- Performed formatting of paper in latex (added table for data, visualizations, etc.)
+- Managed references in bibliography 
+
 
 [Vedaanti Baliga](mailto:vbaliga@usc.edu):
 
@@ -76,3 +81,8 @@ Team members: Vedaanti Baliga, Sofian Ghazali, Ran Tao, Kyle Brooks
 - Introduced the problem statement and the dashboard. Explained the proportional map as well.
 - Recorded video
 - Edited and uploaded video to YouTube
+
+[Kyle Brooks](mailto:kylebroo@usc.edu):
+- Explained enviornmental draw towards EVs.
+- Explained choropleth and pie chart
+
